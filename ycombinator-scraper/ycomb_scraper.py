@@ -44,6 +44,6 @@ for url, filename in [(NEWEST_URL, "newest.txt"),(POPULAR_URL, "popular.txt")]:
 
             file.write(f"{article_id} | {title} | {points} | {comments}\n")
 
-        file.write("\n\n===================================================================================\n\n")
+        file.write("\n===================================================================================\n")
 
     print(f"Saved {len(sampled)} articles to {filename}")
