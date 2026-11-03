@@ -1,0 +1,154 @@
+
+Timestamp: 2026-11-03 15:30:01.701399+01:00
+50351111 | The 'Astra can read and write weights to improve Qwen' post is misleading | 309 | 66 | 1
+50341174 | Astra can read and write weights to improve Qwen | 2868 | 863 | 1
+50351319 | Charles Tandy, the mastermind behind Radio Shack | 24 | 9 | 1
+50352257 | Just a little AI resistance, as a treat | 6 | 0 | 1
+50327088 | Life with Down Syndrome | 67 | 32 | 1
+50349276 | Could a modern chess engine on a Pentium have defeated Kasparov in 1996? | 165 | 77 | 1
+50348962 | Nvidia – open-source auto-ontology | 189 | 64 | 1
+50332342 | Katamari Damacy but it's The Met collection | 79 | 21 | 1
+50321605 | Toit v2.0.0 | 161 | 51 | 1
+50346849 | DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs | 299 | 60 | 1
+50350924 | Sava Trust (YC F25) Is Hiring a Founding Engineer in NYC | None | 0 | 1
+50346981 | Show HN: Hacker Times, a New York Times-inspired version of Hacker News | 371 | 118 | 1
+50342119 | Writing seen in PHerc. 306B, for the first time in 2000 years | 5 | 0 | 1
+50351404 | Show HN: Bema: Work messaging built for humans | 9 | 8 | 1
+50333332 | Why Don't We Live in an Art Nouveau World? | 27 | 25 | 1
+50340088 | Show HN: Subvocal – Talk to your computer without making noise | 759 | 358 | 1
+50334523 | European RISC-V Industrial Computing Initiative | 166 | 90 | 1
+50323123 | Resisting Cognitive Surrender | 247 | 120 | 1
+50337980 | Killing what can't be handled – putting a spaghetti demon to eternal rest | 4 | 0 | 1
+50336518 | If you love a website, back it up | 616 | 146 | 1
+50339397 | US boy names that became girl names and vice versa | 443 | 425 | 1
+50351427 | Show HN: Kvittas, an Expense Splitting App | 7 | 2 | 1
+50340619 | Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You | 286 | 82 | 1
+50336557 | 433MHz TUI scanner: using a FT232H connected to a CC1101 | 21 | 7 | 1
+50320904 | Efficient algorithms, the Exponential Time Hypothesis, and losing the plot | 95 | 63 | 1
+50331988 | Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform | 26 | 1 | 1
+50351833 | Microsoft's Canada timezone troubles leave admins fixing calendars | 9 | 1 | 1
+50331800 | Vathographs: Photographic depth maps as creative expression | 42 | 17 | 1
+50339913 | Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app | 153 | 102 | 1
+50339221 | Show HN: Warsaw in voxels – An interactive 3D map of the city centre | 300 | 48 | 1
+50347552 | Show HN: I built a little browser game to practice Vim commands | 59 | 38 | 2
+50326246 | Shrinking NixOS RAM footprint and resource requirements to the bare minimum | 95 | 12 | 2
+50347464 | Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities | 49 | 4 | 2
+50338728 | Ask HN: Who is hiring? (November 2026) | 233 | 196 | 2
+50344224 | SLAC researchers find proof of altermagnetism, a new magnetic phase | 95 | 11 | 2
+50341736 | Egoless Mathematics in the AI Era | 174 | 141 | 2
+50340159 | Polyend releases the Tracker firmware source code | 148 | 58 | 2
+50345924 | Scaling Git at OpenAI | 247 | 169 | 2
+50350560 | Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly | 58 | 64 | 2
+50341462 | Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks | 564 | 172 | 2
+50337608 | WTF Ubuntu? | 1571 | 656 | 2
+50341028 | Sneaking into the auditorium for the Windows 2000 launch rehearsal | 144 | 52 | 2
+50349155 | uBlock Origin filter to block autoplay videos in TechCrunch | 114 | 35 | 2
+50337558 | We halved DNS build delay and cut memory use by 85% | 189 | 74 | 2
+50351712 | Anthropic's IPO Filing Warns It May Be 'Imminently' Close to RSI | 5 | 0 | 2
+50350004 | Revolut moves to self-hosted GLM | 161 | 128 | 2
+50340992 | Skill to Create Product Videos | 110 | 35 | 2
+50344912 | V100 SXM2 pinout and NVLink reference | 43 | 10 | 2
+50319510 | HackerTube: YouTube built from videos recommended by HN | 2844 | 632 | 2
+50344919 | The SEC Should Block Anthropic's IPO to Protect the Public | 375 | 285 | 2
+50326821 | Show HN: HackerBooks – HackerTube, but for books mentioned on HN | 1833 | 303 | 2
+50334704 | Show HN: I've updated my Linux System Call website and API | 225 | 53 | 2
+50351315 | Jailbreaking my car's navigation system just so I can change the time | 9 | 1 | 2
+50348260 | Cloudflare experiencing multiple active incidents | 66 | 6 | 2
+50337661 | C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11) | 78 | 12 | 2
+50350730 | Itch.io adding Generative AI disclosure filtering to few more places on the site | 9 | 5 | 2
+50312408 | Postgres 19 is late because so many more bugs are being found now | 832 | 500 | 2
+50347766 | Mass attempted replication of old findings of LLMs with new models | 17 | 2 | 2
+50338747 | Moving our warehouse off DuckDB | 181 | 117 | 2
+50348535 | The Nordic Token Tax | 11 | 4 | 2
+50340629 | Making Peace with the Projective Plane | 39 | 18 | 3
+50335615 | Supermarket freezers across Europe hit by second suspected cyber-attack | 400 | 445 | 3
+50337716 | LongCat-2.5: Native Multimodality for Agentic Tasks | 85 | 25 | 3
+50336840 | The U.S. Census Bureau and "Super Intelligence" | 122 | 52 | 3
+50331957 | Bones may release proteins that slow aging and extend life span | 330 | 134 | 3
+50339815 | My Favourite Laptop | 197 | 150 | 3
+50345735 | GUI64 – GUI for the Commodore 64 running on top of the built-in ROM | 20 | 8 | 3
+50346164 | Ask HN: Does anyone have a contact with Cleveland-area Ham club? | 154 | 23 | 3
+50318615 | A Conversation with Paul Masurel, Creator of Tantivy | 28 | 0 | 3
+50328896 | Ask HN: Which TV do you recommend for privacy? | 713 | 853 | 3
+50321939 | WiCi: Connecting GPUs over WiFi | 13 | 6 | 3
+50339494 | Anthropic's internal AI use, at retail prices, now exceeds its employee pay | 336 | 258 | 3
+50347784 | Too Expensive to Exist | 69 | 15 | 3
+50345712 | WorkOS reports security breach | 73 | 10 | 3
+50346153 | Intel stock collapse worsens as $3.5T chip rout spreads | 217 | 193 | 3
+50341334 | Agentic backdoors via pretraining poisoning | 103 | 30 | 3
+50344861 | LLMs are not superhuman at reading and writing neural network weights | 99 | 8 | 3
+50318874 | Trademarks and Symbols, Volume 2: Symbolical Designs (1973) | 25 | 6 | 3
+50349222 | Open models can do 90 percent of agentic work at a twentieth of the cost | 18 | 3 | 3
+50338891 | Show HN: PyWolf3D, a wolfenstein3D clone written from scratch in Python | 27 | 7 | 3
+50344958 | Anthropic's growth just flattened | 220 | 250 | 3
+50320963 | An Italian farmer found some unknown seeds in his attic and planted them | 868 | 236 | 3
+50325454 | Proving and improving the Platonic Representation Hypothesis with JEPAs | 167 | 84 | 3
+50342284 | Oracle files to sell $20B in new stock, bonds to finance AI buildout | 192 | 170 | 3
+50299427 | New 3D thermal invisibility cloak makes objects disappear from infrared cameras | 113 | 42 | 3
+50337454 | Jobless tech workers are being left out of San Francisco's AI boom | 180 | 251 | 3
+50322022 | Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024) | 220 | 104 | 3
+50315217 | Mystery of 60-Second Fluctuations in Power Grids Solved | 260 | 113 | 3
+50336138 | Last night an AI agent performed brain surgery on a mouse | 137 | 111 | 3
+50330033 | When Modernization Breaks Working Code: A Study of LLMs on Legacy PHP | 21 | 14 | 3
+50280131 | Radiation Map of the World | 212 | 57 | 4
+50332163 | F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix | 212 | 30 | 4
+50326099 | Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case | 575 | 177 | 4
+50345977 | One of Google's Android partners turned 1.3M set-top boxes into a botnet | 45 | 4 | 4
+50348591 | How AI is creating a lopsided US economy | 19 | 0 | 4
+50324371 | Domain hacks with unusual Unicode characters (2018) | 104 | 59 | 4
+50303984 | Running a bootstrapped SaaS for 20 years with my brother | 260 | 62 | 4
+50337503 | GPT-Rosalind-6 System Card Addendum | 71 | 55 | 4
+50311045 | Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020 | 188 | 62 | 4
+50328251 | Mathematics has changed. Let's act like it | 388 | 499 | 4
+50318720 | It's the memory latency, stupid | 270 | 101 | 4
+50319143 | TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8 | 743 | 332 | 4
+50300683 | Backdoor in Claude Code for VS Code extension on the Cursor Marketplace | 1008 | 553 | 4
+50348194 | NASA's Swift space telescope predicted to crash back to Earth tomorrow | 18 | 4 | 4
+50350530 | New York Times sues maker of Brave web browser over copyrights | 15 | 2 | 4
+50348740 | Show HN: ReBirth 338 in Browser | 20 | 10 | 4
+50314508 | Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2 | 103 | 29 | 4
+50339224 | Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings | 102 | 34 | 4
+50331784 | Trigger.dev customer environment variables exposed | 165 | 87 | 4
+50334038 | China's First Frontier AI Export Controls: Mofcom Announcement No. 48 | 157 | 87 | 4
+50333774 | From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus | 61 | 10 | 4
+50321048 | Altoids Project | 171 | 7 | 4
+50331402 | OccupySaaS | 516 | 314 | 4
+50320995 | Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard | 458 | 229 | 4
+50323088 | The AI cost of JavaScript frameworks | 472 | 389 | 4
+50322173 | Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing | 342 | 217 | 4
+50341616 | Ballot Rejections Have Soared in Rural Counties as USPS Reduces Mail Service | 107 | 75 | 4
+50289418 | We're releasing the weights of Mistral Large 4 | 1728 | 440 | 4
+50310038 | Understanding Email Encryption (2025) | 145 | 37 | 4
+50290652 | AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura | 218 | 59 | 4
+50318129 | The She-Wolves of Jülich | 41 | 6 | 5
+50319563 | Surviving "The Graduate" | 177 | 60 | 5
+50319749 | Bidirectional charging during grid outages | 113 | 170 | 5
+50299811 | Nibnib: Image compression with extreme decompression speed | 187 | 33 | 5
+50334240 | Wir müssen wissen – wir werden wissen | 59 | 19 | 5
+50335659 | Never Complain, Never Explain | 168 | 65 | 5
+50313227 | Parchment Paper History: How We Got Paper Perfect for Baking (2019) | 62 | 28 | 5
+50327058 | Seoul Viosys begins production of rare-earth-free white light emitter | 193 | 76 | 5
+50325253 | Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust | 315 | 96 | 5
+50271106 | Tips for more effective fuzz testing with AFL++ | 154 | 28 | 5
+50325694 | Novellas with Groff | 129 | 53 | 5
+50344670 | Apple reports fourth quarter results | 89 | 104 | 5
+50290533 | Show HN: Point your camera at a landscape to learn about its geology | 260 | 54 | 5
+50341073 | Anthropic's spending commitments surge to nearly $900B | 34 | 2 | 5
+50344158 | The Ford Privacy Promise: You're in Control of Your Data | 47 | 58 | 5
+50342908 | Bitcoin Suisse CEO: Switzerland has lost interest in cryptocurrencies | 28 | 8 | 5
+50304718 | A 1580 Map Shows Why Data Visualization Is Never Neutral | 81 | 23 | 5
+50336918 | Fujifilm to boost tape production 5x as AI fuels archiving demand | 14 | 0 | 5
+50351312 | The Most Aggressive EV Push Isn't in China [video] | 3 | 1 | 5
+50346314 | What Are the US Midterms | 19 | 0 | 5
+50309266 | The oldest ice disappears and the Stone Age emerges from it | 215 | 110 | 5
+50296486 | We ran AI agent swarms in Minecraft and Mindustry | 421 | 174 | 5
+50319061 | The Duty of a Scholar | 143 | 38 | 5
+50347524 | Show HN: Rustable is an open source database client built in Rust | 24 | 20 | 5
+50337703 | 40 °C heat extremes are no longer implausible in the Nordic countries | 61 | 7 | 5
+50337725 | Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017) | 176 | 241 | 5
+50314654 | Serbia just elected the world's brainiest parliament | 920 | 513 | 5
+50321130 | When electric cars were for women | 82 | 81 | 5
+50346350 | Stolen AI API keys generated nearly $1M in charges for a single company | 11 | 2 | 5
+50343376 | Japan launches mission to make first return trip to Mars | 22 | 2 | 5
+
+===================================================================================

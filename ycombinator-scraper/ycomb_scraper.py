@@ -74,3 +74,6 @@ for url, filename in [(NEWEST_URL, "newest.txt"), (POPULAR_URL, "popular.txt")]:
     # Save raw pages, including pages from previous runs.
     with open(raw_path, "w", encoding="utf-8") as file:
         json.dump(raw_data, file, ensure_ascii=False, indent=2)
+
+# print to the logger w the cronjob        
+print(f"Scraper finished at {datetime.now().astimezone()}")
