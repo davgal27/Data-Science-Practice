@@ -1,0 +1,154 @@
+
+Timestamp: 2026-11-03 14:00:01.582929+01:00
+50351476 | Our software factory: agents write and ship code, verification replaces review | 1 | 0 | 1
+50351475 | The solar system that won't hold still: map for 800k bodies | 1 | 0 | 1
+50351472 | Post-Training Atlas | 1 | 0 | 1
+50351470 | CVEGen – Every month's CVEs, painted into a poster | 1 | 0 | 1
+50351468 | Zenith Data Systems, Part I | 1 | 0 | 1
+50351465 | Show HN: I built an interactive visual playground for interaction nets | 1 | 0 | 1
+50351463 | Microsoft fixes a Windows 11 annoyance as PC revenue declines | 1 | 0 | 1
+50351453 | The State of Python Profiling in 2026 | 1 | 0 | 1
+50351451 | Cavapdf: Search across all your pdf's | 1 | 1 | 1
+50351427 | Show HN: Kvittas, an Expense Splitting App | 3 | 0 | 1
+50351424 | Fine and ultrafine Martian dust presents risks for crewed missions to Mars | 2 | 0 | 1
+50351410 | Thinking in Traits | 2 | 0 | 1
+50351409 | Show HN: LokaDB – store each SaaS clients rows in a separate Postgres database | 2 | 0 | 1
+50351404 | Show HN: Bema: Work messaging built for humans | 3 | 0 | 1
+50351402 | UniFi Cloud Storage | 2 | 0 | 1
+50351395 | Common Ground:AI agent that plans one night two different tastes will both enjoy | 1 | 0 | 1
+50351377 | Open Counter: book a small business by talking – Amazon Developer Hackathon | 1 | 0 | 1
+50351370 | Show HN: Nive – a customizable sleep sound mixer for Android and iOS | 1 | 0 | 1
+50351368 | Show HN: PaneSlide – a daily puzzle where overlapping glass panes mix colours | 1 | 0 | 1
+50351358 | Learnomy: The Academy You Own | 1 | 0 | 1
+50351334 | Why can't Claude agents running in the cloud do everything you want on GitHub? | 1 | 2 | 1
+50351328 | Euclidean, Spherical, and Projective Geometry | 3 | 0 | 1
+50351327 | From a graphics hack to a rigorous model of the projective plane | 1 | 0 | 1
+50351322 | Spatial and sectoral water demand assessment for the African continent | 1 | 0 | 1
+50351319 | Charles Tandy, the mastermind behind Radio Shack | 2 | 0 | 1
+50351315 | Jailbreaking my car's navigation system just so I can change the time | 1 | 0 | 1
+50351312 | The Most Aggressive EV Push Isn't in China [video] | 1 | 1 | 1
+50351298 | Why Clip Art Was Everywhere Until It Wasn't [video] | 1 | 0 | 1
+50351294 | US order to purge Acronis tied to years of scrutiny over Russian ties | 2 | 0 | 1
+50351291 | Show HN: Zuno – a native, keyboard-driven API client written in Rust | 1 | 0 | 1
+50351476 | Our software factory: agents write and ship code, verification replaces review | 1 | 0 | 2
+50351475 | The solar system that won't hold still: map for 800k bodies | 1 | 0 | 2
+50351472 | Post-Training Atlas | 1 | 0 | 2
+50351470 | CVEGen – Every month's CVEs, painted into a poster | 1 | 0 | 2
+50351468 | Zenith Data Systems, Part I | 1 | 0 | 2
+50351465 | Show HN: I built an interactive visual playground for interaction nets | 1 | 0 | 2
+50351463 | Microsoft fixes a Windows 11 annoyance as PC revenue declines | 1 | 0 | 2
+50351453 | The State of Python Profiling in 2026 | 1 | 0 | 2
+50351451 | Cavapdf: Search across all your pdf's | 1 | 1 | 2
+50351427 | Show HN: Kvittas, an Expense Splitting App | 3 | 0 | 2
+50351424 | Fine and ultrafine Martian dust presents risks for crewed missions to Mars | 2 | 0 | 2
+50351410 | Thinking in Traits | 2 | 0 | 2
+50351409 | Show HN: LokaDB – store each SaaS clients rows in a separate Postgres database | 2 | 0 | 2
+50351404 | Show HN: Bema: Work messaging built for humans | 3 | 0 | 2
+50351402 | UniFi Cloud Storage | 2 | 0 | 2
+50351395 | Common Ground:AI agent that plans one night two different tastes will both enjoy | 1 | 0 | 2
+50351377 | Open Counter: book a small business by talking – Amazon Developer Hackathon | 1 | 0 | 2
+50351370 | Show HN: Nive – a customizable sleep sound mixer for Android and iOS | 1 | 0 | 2
+50351368 | Show HN: PaneSlide – a daily puzzle where overlapping glass panes mix colours | 1 | 0 | 2
+50351358 | Learnomy: The Academy You Own | 1 | 0 | 2
+50351334 | Why can't Claude agents running in the cloud do everything you want on GitHub? | 1 | 2 | 2
+50351328 | Euclidean, Spherical, and Projective Geometry | 3 | 0 | 2
+50351327 | From a graphics hack to a rigorous model of the projective plane | 1 | 0 | 2
+50351322 | Spatial and sectoral water demand assessment for the African continent | 1 | 0 | 2
+50351319 | Charles Tandy, the mastermind behind Radio Shack | 2 | 0 | 2
+50351315 | Jailbreaking my car's navigation system just so I can change the time | 1 | 0 | 2
+50351312 | The Most Aggressive EV Push Isn't in China [video] | 1 | 1 | 2
+50351298 | Why Clip Art Was Everywhere Until It Wasn't [video] | 1 | 0 | 2
+50351294 | US order to purge Acronis tied to years of scrutiny over Russian ties | 2 | 0 | 2
+50351291 | Show HN: Zuno – a native, keyboard-driven API client written in Rust | 1 | 0 | 2
+50351476 | Our software factory: agents write and ship code, verification replaces review | 1 | 0 | 3
+50351475 | The solar system that won't hold still: map for 800k bodies | 1 | 0 | 3
+50351472 | Post-Training Atlas | 1 | 0 | 3
+50351470 | CVEGen – Every month's CVEs, painted into a poster | 1 | 0 | 3
+50351468 | Zenith Data Systems, Part I | 1 | 0 | 3
+50351465 | Show HN: I built an interactive visual playground for interaction nets | 1 | 0 | 3
+50351463 | Microsoft fixes a Windows 11 annoyance as PC revenue declines | 1 | 0 | 3
+50351453 | The State of Python Profiling in 2026 | 1 | 0 | 3
+50351451 | Cavapdf: Search across all your pdf's | 1 | 1 | 3
+50351427 | Show HN: Kvittas, an Expense Splitting App | 3 | 0 | 3
+50351424 | Fine and ultrafine Martian dust presents risks for crewed missions to Mars | 2 | 0 | 3
+50351410 | Thinking in Traits | 2 | 0 | 3
+50351409 | Show HN: LokaDB – store each SaaS clients rows in a separate Postgres database | 2 | 0 | 3
+50351404 | Show HN: Bema: Work messaging built for humans | 3 | 0 | 3
+50351402 | UniFi Cloud Storage | 2 | 0 | 3
+50351395 | Common Ground:AI agent that plans one night two different tastes will both enjoy | 1 | 0 | 3
+50351377 | Open Counter: book a small business by talking – Amazon Developer Hackathon | 1 | 0 | 3
+50351370 | Show HN: Nive – a customizable sleep sound mixer for Android and iOS | 1 | 0 | 3
+50351368 | Show HN: PaneSlide – a daily puzzle where overlapping glass panes mix colours | 1 | 0 | 3
+50351358 | Learnomy: The Academy You Own | 1 | 0 | 3
+50351334 | Why can't Claude agents running in the cloud do everything you want on GitHub? | 1 | 2 | 3
+50351328 | Euclidean, Spherical, and Projective Geometry | 3 | 0 | 3
+50351327 | From a graphics hack to a rigorous model of the projective plane | 1 | 0 | 3
+50351322 | Spatial and sectoral water demand assessment for the African continent | 1 | 0 | 3
+50351319 | Charles Tandy, the mastermind behind Radio Shack | 2 | 0 | 3
+50351315 | Jailbreaking my car's navigation system just so I can change the time | 1 | 0 | 3
+50351312 | The Most Aggressive EV Push Isn't in China [video] | 1 | 1 | 3
+50351298 | Why Clip Art Was Everywhere Until It Wasn't [video] | 1 | 0 | 3
+50351294 | US order to purge Acronis tied to years of scrutiny over Russian ties | 2 | 0 | 3
+50351291 | Show HN: Zuno – a native, keyboard-driven API client written in Rust | 1 | 0 | 3
+50351476 | Our software factory: agents write and ship code, verification replaces review | 1 | 0 | 4
+50351475 | The solar system that won't hold still: map for 800k bodies | 1 | 0 | 4
+50351472 | Post-Training Atlas | 1 | 0 | 4
+50351470 | CVEGen – Every month's CVEs, painted into a poster | 1 | 0 | 4
+50351468 | Zenith Data Systems, Part I | 1 | 0 | 4
+50351465 | Show HN: I built an interactive visual playground for interaction nets | 1 | 0 | 4
+50351463 | Microsoft fixes a Windows 11 annoyance as PC revenue declines | 1 | 0 | 4
+50351453 | The State of Python Profiling in 2026 | 1 | 0 | 4
+50351451 | Cavapdf: Search across all your pdf's | 1 | 1 | 4
+50351427 | Show HN: Kvittas, an Expense Splitting App | 3 | 0 | 4
+50351424 | Fine and ultrafine Martian dust presents risks for crewed missions to Mars | 2 | 0 | 4
+50351410 | Thinking in Traits | 2 | 0 | 4
+50351409 | Show HN: LokaDB – store each SaaS clients rows in a separate Postgres database | 2 | 0 | 4
+50351404 | Show HN: Bema: Work messaging built for humans | 3 | 0 | 4
+50351402 | UniFi Cloud Storage | 2 | 0 | 4
+50351395 | Common Ground:AI agent that plans one night two different tastes will both enjoy | 1 | 0 | 4
+50351377 | Open Counter: book a small business by talking – Amazon Developer Hackathon | 1 | 0 | 4
+50351370 | Show HN: Nive – a customizable sleep sound mixer for Android and iOS | 1 | 0 | 4
+50351368 | Show HN: PaneSlide – a daily puzzle where overlapping glass panes mix colours | 1 | 0 | 4
+50351358 | Learnomy: The Academy You Own | 1 | 0 | 4
+50351334 | Why can't Claude agents running in the cloud do everything you want on GitHub? | 1 | 2 | 4
+50351328 | Euclidean, Spherical, and Projective Geometry | 3 | 0 | 4
+50351327 | From a graphics hack to a rigorous model of the projective plane | 1 | 0 | 4
+50351322 | Spatial and sectoral water demand assessment for the African continent | 1 | 0 | 4
+50351319 | Charles Tandy, the mastermind behind Radio Shack | 2 | 0 | 4
+50351315 | Jailbreaking my car's navigation system just so I can change the time | 1 | 0 | 4
+50351312 | The Most Aggressive EV Push Isn't in China [video] | 1 | 1 | 4
+50351298 | Why Clip Art Was Everywhere Until It Wasn't [video] | 1 | 0 | 4
+50351294 | US order to purge Acronis tied to years of scrutiny over Russian ties | 2 | 0 | 4
+50351291 | Show HN: Zuno – a native, keyboard-driven API client written in Rust | 1 | 0 | 4
+50351476 | Our software factory: agents write and ship code, verification replaces review | 1 | 0 | 5
+50351475 | The solar system that won't hold still: map for 800k bodies | 1 | 0 | 5
+50351472 | Post-Training Atlas | 1 | 0 | 5
+50351470 | CVEGen – Every month's CVEs, painted into a poster | 1 | 0 | 5
+50351468 | Zenith Data Systems, Part I | 1 | 0 | 5
+50351465 | Show HN: I built an interactive visual playground for interaction nets | 1 | 0 | 5
+50351463 | Microsoft fixes a Windows 11 annoyance as PC revenue declines | 1 | 0 | 5
+50351453 | The State of Python Profiling in 2026 | 1 | 0 | 5
+50351451 | Cavapdf: Search across all your pdf's | 1 | 1 | 5
+50351427 | Show HN: Kvittas, an Expense Splitting App | 3 | 0 | 5
+50351424 | Fine and ultrafine Martian dust presents risks for crewed missions to Mars | 2 | 0 | 5
+50351410 | Thinking in Traits | 2 | 0 | 5
+50351409 | Show HN: LokaDB – store each SaaS clients rows in a separate Postgres database | 2 | 0 | 5
+50351404 | Show HN: Bema: Work messaging built for humans | 3 | 0 | 5
+50351402 | UniFi Cloud Storage | 2 | 0 | 5
+50351395 | Common Ground:AI agent that plans one night two different tastes will both enjoy | 1 | 0 | 5
+50351377 | Open Counter: book a small business by talking – Amazon Developer Hackathon | 1 | 0 | 5
+50351370 | Show HN: Nive – a customizable sleep sound mixer for Android and iOS | 1 | 0 | 5
+50351368 | Show HN: PaneSlide – a daily puzzle where overlapping glass panes mix colours | 1 | 0 | 5
+50351358 | Learnomy: The Academy You Own | 1 | 0 | 5
+50351334 | Why can't Claude agents running in the cloud do everything you want on GitHub? | 1 | 2 | 5
+50351328 | Euclidean, Spherical, and Projective Geometry | 3 | 0 | 5
+50351327 | From a graphics hack to a rigorous model of the projective plane | 1 | 0 | 5
+50351322 | Spatial and sectoral water demand assessment for the African continent | 1 | 0 | 5
+50351319 | Charles Tandy, the mastermind behind Radio Shack | 2 | 0 | 5
+50351315 | Jailbreaking my car's navigation system just so I can change the time | 1 | 0 | 5
+50351312 | The Most Aggressive EV Push Isn't in China [video] | 1 | 1 | 5
+50351298 | Why Clip Art Was Everywhere Until It Wasn't [video] | 1 | 0 | 5
+50351294 | US order to purge Acronis tied to years of scrutiny over Russian ties | 2 | 0 | 5
+50351291 | Show HN: Zuno – a native, keyboard-driven API client written in Rust | 1 | 0 | 5
+
+===================================================================================

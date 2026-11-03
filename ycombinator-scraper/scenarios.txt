@@ -1,0 +1,3 @@
+Determine if there are certain keywords which are overepresented in the best artciles in hacker news.
+What is the link of mentioning AI and the chance of the new post reaching popular?
+Is the link between comments and upvotes linear? 

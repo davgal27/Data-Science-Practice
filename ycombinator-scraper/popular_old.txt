@@ -1,0 +1,608 @@
+
+Timestamp: 2026-10-26 17:00:01.559027+01:00
+50243061 | The new iPad mini | 90 | 84
+50234474 | Dolly Parton's Imagination Library | 629 | 105
+50228115 | Show HN: A Truly Modular Keyboard | 237 | 80
+50220331 | PhysicsForums and the Dead Internet Theory (2025) | 34 | 17
+50215997 | Birdwatching rewires the brain and slows cognitive decline | 320 | 134
+50209278 | Growing Trees | 157 | 23
+50238739 | PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP | 202 | 74
+50240922 | Switzerland. Block by block. At 1:1 scale | 365 | 169
+50241664 | Websites Should Be Printable | 162 | 127
+50244410 | AmiJa, a cycle-exact Amiga emulator written in Java | 14 | 0
+50242843 | Brown student maps the hidden global labor powering AI | 70 | 57
+50209573 | Colorfigures | 66 | 7
+50242939 | Anthropic S-1 | 751 | 683
+50245385 | 'It's offensively cheap': Solar power is quietly becoming bigger than nuclear | 56 | 41
+50245524 | Microsoft offers mass buyouts for roughly a quarter of its workforce | 34 | 24
+
+===================================================================================
+
+Timestamp: 2026-10-26 18:00:01.599246+01:00
+50242870 | Fixing Tool-Call Accuracy in vLLM | 107 | 60
+50209573 | Colorfigures | 80 | 11
+50243061 | The new iPad mini | 101 | 100
+50200957 | Iron Age salt-mining complex found beneath Hallstatt in Austria | 114 | 56
+50220331 | PhysicsForums and the Dead Internet Theory (2025) | 55 | 33
+50245831 | CSS-Tricks has a new owner | 68 | 9
+50238739 | PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP | 212 | 77
+50209278 | Growing Trees | 162 | 23
+50197108 | Overgrown, when plants invade your abandoned tabs | 377 | 125
+50245138 | Sebastian Raschka's from-scratch video course on building reasoning models | 167 | 7
+50238763 | Behind the scenes at the NeXT Computer office | 220 | 129
+50243646 | OLED iPad Mini | 139 | 191
+50234474 | Dolly Parton's Imagination Library | 640 | 106
+50242843 | Brown student maps the hidden global labor powering AI | 101 | 80
+50209524 | Reinventing the Pencil Sharpener [video] | 14 | 1
+
+===================================================================================
+
+Timestamp: 2026-10-26 20:00:01.169746+01:00
+50209524 | Reinventing the Pencil Sharpener [video] | 39 | 8
+50246658 | Concerning behavior from a popular open-weight AI model | 117 | 42
+50248124 | GPT-6.1 Terra | 143 | 69
+50215997 | Birdwatching rewires the brain and slows cognitive decline | 415 | 171
+50238708 | Show HN: TitleArt – Make text like it's 1997 | 373 | 69
+50240922 | Switzerland. Block by block. At 1:1 scale | 409 | 197
+50241925 | Pharo 14 | 181 | 42
+50245138 | Sebastian Raschka's from-scratch video course on building reasoning models | 333 | 50
+50200152 | Blaise Pascal invented fixed route public transport (2024) | 210 | 107
+50248371 | Microsoft Announces Type Server Protocol, Extension of Language Server Protocol | 30 | 7
+50248055 | Oldest GUI application that still runs on Windows 11 | 22 | 3
+50247559 | Should Police Wipe a Criminal's Cellphone Before Returning It?–U.S. vs. Stathas | 7 | 5
+50222794 | An incremental approach to JIT construction | 11 | 0
+50214967 | World Wars I and II Military Aviation Museum Collection | 4 | 0
+50247630 | ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems | 92 | 19
+
+===================================================================================
+
+Timestamp: 2026-10-26 21:00:01.878738+01:00
+50247493 | Nietzschian Debugger | 62 | 27
+50247559 | Should Police Wipe a Criminal's Cellphone Before Returning It?–U.S. vs. Stathas | 19 | 12
+50209524 | Reinventing the Pencil Sharpener [video] | 55 | 12
+50200152 | Blaise Pascal invented fixed route public transport (2024) | 229 | 117
+50242939 | Anthropic S-1 | 1253 | 1218
+50248665 | US designates helium as a critical material | 73 | 28
+50248055 | Oldest GUI application that still runs on Windows 11 | 82 | 28
+50214967 | World Wars I and II Military Aviation Museum Collection | 13 | 5
+50248005 | In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real | 97 | 46
+50244583 | Partyline: A group voice application for Reticulum, built on LXST | 37 | 11
+50249275 | The EPA Is Quietly Killing Its Web Archive | 57 | 1
+50236681 | SIMD-accelerated computer vision on a $2 microcontroller | 126 | 37
+50245138 | Sebastian Raschka's from-scratch video course on building reasoning models | 398 | 55
+50215997 | Birdwatching rewires the brain and slows cognitive decline | 439 | 179
+50247630 | ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems | 143 | 45
+
+===================================================================================
+
+Timestamp: 2026-10-26 22:00:01.586245+01:00
+50248371 | Type Server Protocol | 130 | 86
+50200152 | Blaise Pascal invented fixed route public transport (2024) | 238 | 125
+50245138 | Sebastian Raschka's from-scratch video course on building reasoning models | 443 | 60
+50236681 | SIMD-accelerated computer vision on a $2 microcontroller | 140 | 44
+50209525 | Diamond Transistor | 94 | 47
+50248124 | GPT-6.1 Terra | 344 | 203
+50237019 | Show HN: Glider 4.0 Unofficial Web Edition (Mac game port) | 14 | 1
+50247559 | Should Police Wipe a Criminal's Cellphone Before Returning It?–U.S. vs. Stathas | 30 | 29
+50246658 | Concerning behavior from a popular open-weight AI model | 193 | 74
+50222794 | An incremental approach to JIT construction | 27 | 1
+50249116 | Skydance offers buyouts, orders return to office | 49 | 7
+50248665 | US designates helium as a critical material | 112 | 52
+50245831 | CSS-Tricks has a new owner | 301 | 67
+50248005 | In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real | 151 | 82
+50250016 | Somebody please stop the spam texts | 58 | 48
+
+===================================================================================
+
+Timestamp: 2026-10-26 23:00:01.383025+01:00
+50246238 | Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT | 55 | 16
+50236681 | SIMD-accelerated computer vision on a $2 microcontroller | 148 | 51
+50247928 | A Man from the Future: Why Johnny Can't Stop Abstracting | 79 | 40
+50214967 | World Wars I and II Military Aviation Museum Collection | 25 | 10
+50213502 | Native Prometheus Integration with Nginx | 11 | 0
+50215997 | Birdwatching rewires the brain and slows cognitive decline | 480 | 184
+50248665 | US designates helium as a critical material | 137 | 67
+50209525 | Diamond Transistor | 101 | 55
+50250937 | Microsoft offers voluntary buyouts to a quarter of its workforce | 74 | 48
+50248055 | Oldest GUI application that still runs on Windows 11 | 190 | 111
+50245138 | Sebastian Raschka's from-scratch video course on building reasoning models | 490 | 72
+50200152 | Blaise Pascal invented fixed route public transport (2024) | 244 | 129
+50211780 | Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera | 33 | 32
+50241925 | Pharo 14 | 220 | 54
+50248124 | GPT-6.1 Terra | 406 | 255
+
+===================================================================================
+
+Timestamp: 2026-10-27 00:00:01.233837+01:00
+50248005 | In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real | 234 | 143
+50251661 | The Exponential Time Hypothesis Is False [pdf] | 14 | 0
+50248124 | GPT-6.1 Terra | 448 | 284
+50247493 | Nietzschian Debugger | 111 | 37
+50215997 | Birdwatching rewires the brain and slows cognitive decline | 488 | 192
+50240922 | Switzerland. Block by block. At 1:1 scale | 450 | 212
+50249738 | Magic state cultivation on a superconducting quantum processor | 7 | 0
+50212764 | Who killed the EV cert? A browser whodunit for Halloween | 15 | 27
+50245138 | Sebastian Raschka's from-scratch video course on building reasoning models | 504 | 76
+50247928 | A Man from the Future: Why Johnny Can't Stop Abstracting | 91 | 48
+50209525 | Diamond Transistor | 109 | 59
+50248371 | Type Server Protocol | 170 | 126
+50237019 | Show HN: Glider 4.0 Unofficial Web Edition (Mac game port) | 29 | 5
+50200152 | Blaise Pascal invented fixed route public transport (2024) | 252 | 133
+50246238 | Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT | 78 | 21
+
+===================================================================================
+
+Timestamp: 2026-10-27 10:00:02.234685+01:00
+50251344 | Three new discoveries in mathematics, computer science, and physics | 718 | 314
+50241664 | Websites Should Be Printable | 312 | 187
+50200152 | Blaise Pascal invented fixed route public transport (2024) | 277 | 145
+50252159 | Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses) | 112 | 37
+50247493 | Nietzschian Debugger | 154 | 50
+50254836 | There are now 5 inference providers for abliterated DeepSeek | 28 | 21
+50231041 | LISPy things you can do in 64K bytes of core (2019) | 45 | 8
+50251661 | The Exponential Time Hypothesis Is False [pdf] | 501 | 185
+50253939 | I still teach OpenGL ES 3.0 | 21 | 14
+50241925 | Pharo 14 | 250 | 68
+50248371 | Type Server Protocol | 221 | 146
+50245385 | Solar power is becoming bigger than nuclear | 224 | 343
+50245138 | Sebastian Raschka's from-scratch video course on building reasoning models | 644 | 91
+50243061 | New iPad mini | 178 | 459
+50253529 | 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows | 62 | 5
+
+===================================================================================
+
+Timestamp: 2026-10-27 11:00:01.892581+01:00
+50247493 | Nietzschian Debugger | 154 | 50
+50251661 | The Exponential Time Hypothesis Is False [pdf] | 501 | 185
+50231041 | LISPy things you can do in 64K bytes of core (2019) | 45 | 8
+50247928 | A Man from the Future: Why Johnny Can't Stop Abstracting | 154 | 75
+50234707 | APC says let there be light, with standards to speed up photonics manufacturing | 28 | 4
+50240465 | How to grow a cacao tree at home | 43 | 10
+50242939 | Anthropic S-1 | 1561 | 1500
+50245385 | Solar power is becoming bigger than nuclear | 224 | 343
+50245524 | Microsoft offers mass buyouts for roughly a quarter of its workforce | 870 | 811
+50253529 | 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows | 62 | 5
+50200152 | Blaise Pascal invented fixed route public transport (2024) | 277 | 145
+50254935 | UK to charge universities $1,200 per international student | 10 | 0
+50251344 | Three new discoveries in mathematics, computer science, and physics | 718 | 314
+50226808 | Virtual and Real World Combine at LAN Party (1998) | 37 | 5
+50204697 | A Printer Printing onto Paper | 99 | 24
+
+===================================================================================
+
+Timestamp: 2026-10-27 12:00:01.851729+01:00
+50234707 | APC says let there be light, with standards to speed up photonics manufacturing | 28 | 4
+50254935 | UK to charge universities $1,200 per international student | 10 | 0
+50204697 | A Printer Printing onto Paper | 99 | 24
+50243061 | New iPad mini | 178 | 459
+50252159 | Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses) | 112 | 37
+50241664 | Websites Should Be Printable | 312 | 187
+50245831 | CSS-Tricks has a new owner | 423 | 96
+50248055 | Oldest GUI application that still runs on Windows 11 | 370 | 215
+50251344 | Three new discoveries in mathematics, computer science, and physics | 718 | 314
+50240465 | How to grow a cacao tree at home | 43 | 10
+50251661 | The Exponential Time Hypothesis Is False [pdf] | 501 | 185
+50245524 | Microsoft offers mass buyouts for roughly a quarter of its workforce | 870 | 811
+50248371 | Type Server Protocol | 221 | 146
+50253529 | 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows | 62 | 5
+50254836 | There are now 5 inference providers for abliterated DeepSeek | 28 | 21
+
+===================================================================================
+
+Timestamp: 2026-10-27 13:00:01.705601+01:00
+50251661 | The Exponential Time Hypothesis Is False [pdf] | 501 | 185
+50251344 | Three new discoveries in mathematics, computer science, and physics | 718 | 314
+50245385 | Solar power is becoming bigger than nuclear | 224 | 343
+50248055 | Oldest GUI application that still runs on Windows 11 | 370 | 215
+50247493 | Nietzschian Debugger | 154 | 50
+50253529 | 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows | 62 | 5
+50241664 | Websites Should Be Printable | 312 | 187
+50252159 | Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses) | 112 | 37
+50200152 | Blaise Pascal invented fixed route public transport (2024) | 277 | 145
+50254935 | UK to charge universities $1,200 per international student | 10 | 0
+50245831 | CSS-Tricks has a new owner | 423 | 96
+50204697 | A Printer Printing onto Paper | 99 | 24
+50248124 | GPT-6.1 Terra | 566 | 353
+50248371 | Type Server Protocol | 221 | 146
+50234707 | APC says let there be light, with standards to speed up photonics manufacturing | 28 | 4
+
+===================================================================================
+
+Timestamp: 2026-10-27 16:00:01.374391+01:00
+50232322 | Historical Telecommunications | 9 | 1
+50248055 | Oldest GUI application that still runs on Windows 11 | 370 | 215
+50247493 | Nietzschian Debugger | 154 | 50
+50253939 | I still teach OpenGL ES 3.0 | 21 | 14
+50200152 | Blaise Pascal invented fixed route public transport (2024) | 277 | 145
+50240465 | How to grow a cacao tree at home | 43 | 10
+50245831 | CSS-Tricks has a new owner | 423 | 96
+50226808 | Virtual and Real World Combine at LAN Party (1998) | 37 | 5
+50253529 | 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows | 62 | 5
+50234707 | APC says let there be light, with standards to speed up photonics manufacturing | 28 | 4
+50245138 | Sebastian Raschka's from-scratch video course on building reasoning models | 644 | 91
+50242939 | Anthropic S-1 | 1561 | 1500
+50245385 | Solar power is becoming bigger than nuclear | 224 | 343
+50204697 | A Printer Printing onto Paper | 99 | 24
+50241925 | Pharo 14 | 250 | 68
+
+===================================================================================
+
+Timestamp: 2026-10-27 18:00:01.754487+01:00
+50252008 | Is PHP Running on Your ColdFusion Server? How to Check, and Remove It | 36 | 29
+50242939 | Anthropic S-1 | 1561 | 1500
+50254935 | UK to charge universities $1,200 per international student | 10 | 0
+50241664 | Websites Should Be Printable | 312 | 187
+50240465 | How to grow a cacao tree at home | 43 | 10
+50253529 | 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows | 62 | 5
+50252159 | Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses) | 112 | 37
+50232322 | Historical Telecommunications | 9 | 1
+50248124 | GPT-6.1 Terra | 566 | 353
+50245385 | Solar power is becoming bigger than nuclear | 224 | 343
+50251661 | The Exponential Time Hypothesis Is False [pdf] | 501 | 185
+50195812 | Migrate Your 300-Node Redis Cluster to Just 3 Lavik Nodes | 7 | 5
+50251344 | Three new discoveries in mathematics, computer science, and physics | 718 | 314
+50248055 | Oldest GUI application that still runs on Windows 11 | 370 | 215
+50247493 | Nietzschian Debugger | 154 | 50
+
+===================================================================================
+
+Timestamp: 2026-10-27 19:00:01.648986+01:00
+50242939 | Anthropic S-1 | 1561 | 1500
+50251661 | The Exponential Time Hypothesis Is False [pdf] | 501 | 185
+50241664 | Websites Should Be Printable | 312 | 187
+50254935 | UK to charge universities $1,200 per international student | 10 | 0
+50241925 | Pharo 14 | 250 | 68
+50247928 | A Man from the Future: Why Johnny Can't Stop Abstracting | 154 | 75
+50245385 | Solar power is becoming bigger than nuclear | 224 | 343
+50204697 | A Printer Printing onto Paper | 99 | 24
+50248124 | GPT-6.1 Terra | 566 | 353
+50234707 | APC says let there be light, with standards to speed up photonics manufacturing | 28 | 4
+50248371 | Type Server Protocol | 221 | 146
+50232322 | Historical Telecommunications | 9 | 1
+50253939 | I still teach OpenGL ES 3.0 | 21 | 14
+50253529 | 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows | 62 | 5
+50231041 | LISPy things you can do in 64K bytes of core (2019) | 45 | 8
+
+===================================================================================
+
+Timestamp: 2026-10-27 20:00:01.463176+01:00
+50234707 | APC says let there be light, with standards to speed up photonics manufacturing | 28 | 4
+50252008 | Is PHP Running on Your ColdFusion Server? How to Check, and Remove It | 36 | 29
+50200152 | Blaise Pascal invented fixed route public transport (2024) | 277 | 145
+50252159 | Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses) | 112 | 37
+50248055 | Oldest GUI application that still runs on Windows 11 | 370 | 215
+50241664 | Websites Should Be Printable | 312 | 187
+50195812 | Migrate Your 300-Node Redis Cluster to Just 3 Lavik Nodes | 7 | 5
+50251661 | The Exponential Time Hypothesis Is False [pdf] | 501 | 185
+50245831 | CSS-Tricks has a new owner | 423 | 96
+50240465 | How to grow a cacao tree at home | 43 | 10
+50243061 | New iPad mini | 178 | 459
+50248124 | GPT-6.1 Terra | 566 | 353
+50236681 | SIMD-accelerated computer vision on a $2 microcontroller | 194 | 57
+50245524 | Microsoft offers mass buyouts for roughly a quarter of its workforce | 870 | 811
+50251344 | Three new discoveries in mathematics, computer science, and physics | 718 | 314
+
+===================================================================================
+
+Timestamp: 2026-10-29 20:00:01.935978+01:00
+50287919 | DoorDash to acquire Instacart | 274 | 489
+50289590 | Keplearn: Extract Equations from Data in Seconds | 59 | 3
+50286197 | What we know so far about Spain train crash | 77 | 142
+50290283 | Zombie stats: Where the numbers AI quotes come from | 93 | 46
+50242509 | Java's new AOT cache feature is in a rough state | 75 | 23
+50293308 | I'm building LYNX, an open-source DAW inspired by FL Studio, free,cross-platform | 18 | 8
+50291054 | H.264 Is Magic (2016) | 160 | 85
+50282538 | The first wired XR glasses powered by Android XR | 85 | 67
+50289418 | We're releasing the weights of Mistral Large 4 | 780 | 208
+50247342 | The tragedy of losing your Wikipedia page | 29 | 46
+50280722 | The case of the 9 bit AES key | 119 | 65
+50287448 | How Google determines the names for bodies of water in Google Earth (2008) | 196 | 158
+50278645 | noalloc: Tooling and libraries to enforce zero heap allocations in Golang | 40 | 19
+50287775 | If IPv4 were land | 168 | 177
+50291421 | 16colo.rs – ANSI/ASCII art archive | 36 | 4
+
+===================================================================================
+
+Timestamp: 2026-10-29 21:00:01.568990+01:00
+50293023 | After 28 years walking across the globe, he's almost home | 37 | 14
+50292233 | Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic | 123 | 14
+50247342 | The tragedy of losing your Wikipedia page | 38 | 49
+50287599 | NetBSD adds a new text editor called atto | 141 | 111
+50286987 | Chained PHP2Shell exploit roots 25 servers, including US Government servers | 215 | 97
+50287919 | DoorDash to acquire Instacart | 309 | 527
+50291945 | Google Search is now less than half of Alphabet’s revenue | 340 | 290
+50294507 | The importance of communities around software | 17 | 5
+50278678 | Show HN: A proof-of-concept formalization of the IRS federal tax forms | 12 | 2
+50292727 | Duet is the future of chatbot interaction | 7 | 0
+50290912 | Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks | 101 | 15
+50294486 | IgE disruptor for food allergy with Claude-enabled antibody design [pdf] | 6 | 1
+50289418 | We're releasing the weights of Mistral Large 4 | 880 | 251
+50294770 | Patrick Stewart Has Died | 28 | 3
+50287775 | If IPv4 were land | 181 | 203
+
+===================================================================================
+
+Timestamp: 2026-10-29 22:00:01.554721+01:00
+50278645 | noalloc: Tooling and libraries to enforce zero heap allocations in Golang | 59 | 35
+50292233 | Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic | 140 | 14
+50293047 | Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang | 137 | 74
+50260033 | One reviewer per layer: splitting code review by the way code is read | 19 | 7
+50294486 | IgE disruptor for food allergy with Claude-enabled antibody design [pdf] | 18 | 6
+50291054 | H.264 Is Magic (2016) | 229 | 103
+50287599 | NetBSD adds a new text editor called atto | 147 | 115
+50293023 | After 28 years walking across the globe, he's almost home | 68 | 38
+50292727 | Claude Duet is the future of chatbot interaction | 38 | 25
+50247342 | The tragedy of losing your Wikipedia page | 44 | 62
+50289590 | Keplearn: Extract Equations from Data in Seconds | 80 | 7
+50291421 | 16colo.rs – ANSI/ASCII art archive | 61 | 5
+50290668 | I went to Mexico to test-drive the cars Americans can’t buy | 260 | 285
+50290283 | Zombie stats: Where the numbers AI quotes come from | 117 | 58
+50294507 | The importance of communities around software | 54 | 40
+
+===================================================================================
+
+Timestamp: 2026-10-30 12:00:01.511840+01:00
+50273340 | Artificial Analysis v5 and the benchmarker's dilemma | 22 | 9
+50273104 | I'm so bad at billiards that I ended up in the hyperbolic plane [video] | 145 | 18
+50289418 | We're releasing the weights of Mistral Large 4 | 1506 | 399
+50290177 | LLM Voice | 491 | 257
+50255343 | Cuis: The Modern Smalltalk-80 | 126 | 16
+50300853 | 'Elite North Korean hackers' blamed for $6.3B Binance hack | 60 | 58
+50287599 | NetBSD adds a new text editor called atto | 181 | 144
+50295821 | ElementaryUI – Swift, in the Browser | 106 | 31
+50291421 | 16colo.rs – ANSI/ASCII art archive | 127 | 9
+50291054 | H.264 Is Magic (2016) | 442 | 150
+50287775 | If IPv4 were land | 292 | 409
+50266956 | An illustrated online book on Hewlett-Packard equipment | 21 | 4
+50270651 | Astroterm: A Planetarium for Your Terminal | 147 | 12
+50296920 | Should a medical diagnosis reshape the past? (2025) | 46 | 9
+50251070 | Why a program doesn't work when run from a batch file, but works when clicked | 29 | 3
+
+===================================================================================
+
+Timestamp: 2026-10-30 13:00:01.910863+01:00
+50266956 | An illustrated online book on Hewlett-Packard equipment | 25 | 6
+50298318 | Cormac McCarthy's Library | 62 | 23
+50296486 | We ran AI agent swarms in Minecraft and Mindustry | 310 | 113
+50273104 | I'm so bad at billiards that I ended up in the hyperbolic plane [video] | 154 | 23
+50295450 | A tiny world model running games on a Raspberry Pi Pico 2 W | 232 | 15
+50296470 | Binance-hacker-1029 – $5.6B stolen from Binance | 1474 | 954
+50301717 | How Do You Take a Picture of a Black Hole? | 23 | 14
+50301854 | Azure's Weakest Link – Five Full Cross-Tenant Compromises | 4 | 0
+50291116 | Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents | 71 | 24
+50301462 | elect.horse | 84 | 24
+50289418 | We're releasing the weights of Mistral Large 4 | 1538 | 404
+50263127 | Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated | 55 | 21
+50251070 | Why a program doesn't work when run from a batch file, but works when clicked | 37 | 6
+50273340 | Artificial Analysis v5 and the benchmarker's dilemma | 28 | 22
+50287775 | If IPv4 were land | 297 | 414
+
+===================================================================================
+
+Timestamp: 2026-10-31 13:00:01.361449+01:00
+50303172 | The $6.3B Binance hack was pulled off in just 20 minutes | 476 | 327
+50314085 | Switch Lowering in GCC | 85 | 13
+50312756 | Tell HN: Scribd Breached | 243 | 97
+50269045 | Sneezecount (2018) | 8 | 3
+50301854 | Azure's Weakest Link – Five Full Cross-Tenant Compromises | 314 | 58
+50300683 | Backdoor in Claude Code for VS Code extension on the Cursor Marketplace | 911 | 534
+50309029 | Infinite Mac: BeOS | 166 | 90
+50309266 | The oldest ice disappears and the Stone Age emerges from it | 159 | 62
+50305573 | The federated code forge | 297 | 86
+50307190 | My favourite PowerMac is a Nintendo Wii | 317 | 94
+50314654 | Serbia just elected the world's brainiest parliament | 203 | 133
+50263837 | Breaking the open web won't stop the bad bots | 273 | 122
+50290652 | AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura | 58 | 13
+50313661 | Digital Minimalism | 82 | 53
+50314699 | We Took over ChatGPT Accounts | 10 | 4
+
+===================================================================================
+
+Timestamp: 2026-10-31 15:00:01.888270+01:00
+50305637 | Florilegium: Procedural Flowers in LaTeX | 323 | 49
+50315226 | Prospero: A new coding harness for a more civilized age | 28 | 7
+50306442 | Show HN: A working Nintendo in ~1GB of Qwen weights | 268 | 131
+50315990 | AI startup hacks Anthropic, gains access to employee details, internal messages | 30 | 4
+50315574 | Why Anthropic's Filing Crushed Tech Stocks | 22 | 23
+50289081 | Brief History of PDP Computers | 38 | 16
+50303172 | The $6.3B Binance hack was pulled off in just 20 minutes | 500 | 352
+50314654 | Serbia just elected the world's brainiest parliament | 436 | 260
+50313661 | Digital Minimalism | 123 | 78
+50301854 | Azure's Weakest Link – Five Full Cross-Tenant Compromises | 319 | 59
+50277379 | Cloudflare Turnstile solver library (no headless browser required) | 256 | 83
+50274885 | Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death | 49 | 22
+50305025 | Northflank Breached | 455 | 331
+50311686 | Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game | 205 | 60
+50309314 | Jules Verne's Lost Novel | 127 | 32
+
+===================================================================================
+
+Timestamp: 2026-10-31 16:00:01.544288+01:00
+50305573 | The federated code forge | 308 | 89
+50309314 | Jules Verne's Lost Novel | 131 | 32
+50307190 | My favourite PowerMac is a Nintendo Wii | 342 | 104
+50314654 | Serbia just elected the world's brainiest parliament | 507 | 305
+50300151 | Keeping the Bonfires Lit | 12 | 5
+50296700 | Hunting 'Zombie Accounts' in Active Directory | 7 | 1
+50314666 | Molly(Signal fork) has not been updated since 3 months and is vulnerable | 124 | 77
+50316103 | Retired professor arrested for blocking delivery robot. Will do it again | 11 | 0
+50315776 | Why Did Meta Suspend a US Senate Candidate's Instagram in the Middle of a Rally? | 42 | 34
+50309266 | The oldest ice disappears and the Stone Age emerges from it | 178 | 77
+50263837 | Breaking the open web won't stop the bad bots | 291 | 128
+50314699 | We Took over ChatGPT Accounts | 133 | 58
+50305025 | Northflank Breached | 460 | 333
+50261253 | Simple circuits can create complex behaviors | 44 | 4
+50277379 | Cloudflare Turnstile solver library (no headless browser required) | 263 | 89
+
+===================================================================================
+
+Timestamp: 2026-10-31 17:00:01.991027+01:00
+50307190 | My favourite PowerMac is a Nintendo Wii | 346 | 105
+50260753 | Show HN: Marelleo, an open-source story box I built for my kids using ESP32 | 138 | 40
+50313661 | Digital minimalism | 171 | 126
+50306442 | Show HN: A working Nintendo in ~1GB of Qwen weights | 273 | 135
+50315226 | Prospero: A new coding harness for a more civilized age | 101 | 63
+50263837 | Breaking the open web won't stop the bad bots | 299 | 129
+50274885 | Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death | 53 | 24
+50304122 | Cisco gives engineer unlimited AI tokens to rewrite legacy code | 249 | 294
+50316760 | Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation' | 25 | 8
+50314654 | Serbia just elected the world's brainiest parliament | 571 | 331
+50312756 | Tell HN: Scribd Breached | 293 | 107
+50311686 | Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game | 220 | 70
+50261253 | Simple circuits can create complex behaviors | 69 | 11
+50314666 | Molly(Signal fork) has not been updated since 3 months and is vulnerable | 161 | 109
+50305025 | Northflank Breached | 460 | 339
+
+===================================================================================
+
+Timestamp: 2026-10-31 19:00:02.064637+01:00
+50317484 | A/SIDE – Private photo sharing and encrypted messages | 14 | 15
+50315226 | Prospero: A new coding harness for a more civilized age | 144 | 89
+50312756 | Tell HN: Scribd Breached | 316 | 117
+50296700 | Hunting 'Zombie Accounts' in Active Directory | 24 | 2
+50274186 | Redox: Ring Buffers Project Summary | 5 | 1
+50314666 | Molly (Signal fork) has not been updated since 3 months and is vulnerable | 219 | 138
+50277379 | Cloudflare Turnstile solver library (no headless browser required) | 286 | 96
+50317534 | Enlightenment 0.28 Released with Many Improvements | 17 | 7
+50300902 | Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector | 15 | 6
+50305637 | Florilegium: Procedural Flowers in LaTeX | 362 | 52
+50261253 | Simple circuits can create complex behaviors | 130 | 30
+50309266 | The oldest ice disappears and the Stone Age emerges from it | 193 | 87
+50317548 | Show HN: Jointter – A daily word puzzle using dots and lines | 6 | 4
+50317429 | What is a light-day? The milestone Voyager 1 is closing in on | 34 | 10
+50314699 | We Took over ChatGPT Accounts | 229 | 110
+
+===================================================================================
+
+Timestamp: 2026-11-02 13:00:01.563777+01:00
+50312408 | Postgres 19 is late because so many more bugs are being found now | 537 | 330
+50335602 | Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack | 4 | 0
+50334704 | Show HN: I've updated my Linux System Call website and API | 32 | 13
+50323088 | The AI cost of JavaScript frameworks | 388 | 299
+50328896 | Ask HN: Which TV do you recommend for privacy? | 444 | 574
+50335341 | The future in old computer magazines (1984–2004) | 12 | 4
+50290533 | Show HN: Point your camera at a landscape to learn about its geology | 215 | 47
+50325253 | Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust | 265 | 75
+50333877 | Show HN: HackerHack – HackerBooks but for Posts Posted on HN | 38 | 8
+50314617 | One-minute frequency disturbances from synchronization in power systems | 164 | 52
+50328251 | Mathematics has changed. Let's act like it | 323 | 377
+50331957 | Bones may release proteins that slow aging and extend life span | 132 | 29
+50325454 | Proving and improving the Platonic Representation Hypothesis with JEPAs | 145 | 71
+50280131 | Radiation Map of the World | 186 | 51
+50332163 | F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix | 145 | 15
+
+===================================================================================
+
+Timestamp: 2026-11-02 20:00:02.104768+01:00
+50337608 | WTF Ubuntu? | 875 | 444
+50339397 | US boy names that became girl names and vice versa | 103 | 84
+50339913 | Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app | 61 | 44
+50341174 | Astra can read and write weights to improve Qwen | 32 | 0
+50315217 | Mystery of 60-Second Fluctuations in Power Grids Solved | 247 | 105
+50340369 | Let Me Ch... | 44 | 6
+50337558 | We halved DNS build delay and cut memory use by 85% | 75 | 24
+50336840 | The U.S. Census Bureau and "Super Intelligence" | 36 | 17
+50341334 | Agentic Backdoors via Pretraining Poisoning | 14 | 0
+50336518 | If you love a website, back it up | 201 | 49
+50337661 | C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11) | 22 | 6
+50340088 | Show HN: Subvocal – Talk to your computer without making noise | 214 | 152
+50339827 | Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus) | None | 0
+50337503 | GPT-Rosalind-6 System Card Addendum | 47 | 43
+50331957 | Bones may release proteins that slow aging and extend life span | 287 | 106
+
+===================================================================================
+
+Timestamp: 2026-11-02 21:00:02.119806+01:00
+50337661 | C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11) | 26 | 8
+50336840 | The U.S. Census Bureau and "Super Intelligence" | 49 | 21
+50342424 | Anthropic reveals $900B AI spending commitments ahead of IPO | 13 | 0
+50334704 | Show HN: I've updated my Linux System Call website and API | 175 | 47
+50338747 | Moving our warehouse off DuckDB | 118 | 91
+50341174 | Astra can read and write weights to improve Qwen | 609 | 176
+50341502 | SOML – A Config Format for Humans | 20 | 10
+50339397 | US boy names that became girl names and vice versa | 148 | 153
+50337716 | LongCat-2.5: Native Multimodality for Agentic Tasks | 56 | 19
+50337608 | WTF Ubuntu? | 987 | 481
+50340992 | Skill to Create Product Videos | 10 | 1
+50339827 | Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus) | None | 0
+50340629 | Making Peace with the Projective Plane | 10 | 0
+50340088 | Show HN: Subvocal – Talk to your computer without making noise | 293 | 202
+50331957 | Bones may release proteins that slow aging and extend life span | 295 | 114
+
+===================================================================================
+
+Timestamp: 2026-11-02 22:00:02.027958+01:00
+50339913 | Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app | 89 | 57
+50336518 | If you love a website, back it up | 260 | 63
+50341174 | Astra can read and write weights to improve Qwen | 968 | 306
+50341502 | SOML – A Config Format for Humans | 41 | 27
+50337608 | WTF Ubuntu? | 1074 | 526
+50340088 | Show HN: Subvocal – Talk to your computer without making noise | 356 | 223
+50339494 | Anthropic's internal AI use, at retail prices, now exceeds its employee pay | 227 | 176
+50340159 | Polyend releases the Tracker firmware source code | 15 | 2
+50341736 | Egoless Mathematics in the AI Era | 52 | 44
+50340992 | Skill to Create Product Videos | 27 | 5
+50341028 | Sneaking into the auditorium for the Windows 2000 launch rehearsal | 57 | 17
+50338728 | Ask HN: Who is hiring? (November 2026) | 124 | 107
+50337716 | LongCat-2.5: Native Multimodality for Agentic Tasks | 60 | 20
+50336840 | The U.S. Census Bureau and "Super Intelligence" | 66 | 31
+50337661 | C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11) | 38 | 8
+
+===================================================================================
+
+Timestamp: 2026-11-03 11:00:01.440895+01:00
+50320904 | Efficient algorithms, the Exponential Time Hypothesis, and losing the plot | 44 | 24
+50336518 | If you love a website, back it up | 548 | 123
+50348260 | Cloudflare experiencing multiple active incidents | 52 | 4
+50345924 | Scaling Git at OpenAI | 225 | 135
+50339397 | US boy names that became girl names and vice versa | 401 | 383
+50347464 | Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities | 34 | 4
+50340619 | Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You | 228 | 60
+50331988 | Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform | 5 | 0
+50346981 | Show HN: Hacker Times, a New York Times-inspired version of Hacker News | 264 | 81
+50323123 | Resisting Cognitive Surrender | 170 | 75
+50348962 | Nvidia – open-source auto-ontology | 60 | 11
+50337608 | WTF Ubuntu? | 1523 | 633
+50339221 | Show HN: Warsaw in voxels – An interactive 3D map of the city centre | 271 | 43
+50341462 | Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks | 508 | 144
+50331800 | Vathographs: Photographic depth maps as creative expression | 9 | 1
+
+===================================================================================
+
+Timestamp: 2026-11-03 12:00:01.492406+01:00
+50323123 | Resisting Cognitive Surrender | 186 | 81
+50348962 | Nvidia – open-source auto-ontology | 78 | 16
+50338728 | Ask HN: Who is hiring? (November 2026) | 221 | 182
+50344224 | SLAC researchers find proof of altermagnetism, a new magnetic phase | 78 | 9
+50340088 | Show HN: Subvocal – Talk to your computer without making noise | 707 | 343
+50350004 | Revolut moves to self-hosted GLM | 35 | 18
+50337608 | WTF Ubuntu? | 1535 | 638
+50339397 | US boy names that became girl names and vice versa | 411 | 388
+50339221 | Show HN: Warsaw in voxels – An interactive 3D map of the city centre | 280 | 45
+50346849 | DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs | 226 | 48
+50347464 | Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities | 38 | 4
+50341174 | Astra can read and write weights to improve Qwen | 2685 | 812
+50334523 | European RISC-V Industrial Computing Initiative | 121 | 61
+50341462 | Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks | 528 | 151
+50326246 | Shrinking NixOS RAM footprint and resource requirements to the bare minimum | 69 | 8
+
+===================================================================================
+
+Timestamp: 2026-11-03 13:00:01.765339+01:00
+50340159 | Polyend releases the Tracker firmware source code | 144 | 47
+50331800 | Vathographs: Photographic depth maps as creative expression | 28 | 6
+50339221 | Show HN: Warsaw in voxels – An interactive 3D map of the city centre | 285 | 45
+50345924 | Scaling Git at OpenAI | 239 | 162
+50344224 | SLAC researchers find proof of altermagnetism, a new magnetic phase | 82 | 9
+50323123 | Resisting Cognitive Surrender | 199 | 101
+50347552 | Show HN: I built a little browser game to practice Vim commands | 42 | 31
+50349276 | Could a modern chess engine on a Pentium have defeated Kasparov in 1996? | 13 | 0
+50339913 | Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app | 146 | 97
+50334523 | European RISC-V Industrial Computing Initiative | 135 | 72
+50326246 | Shrinking NixOS RAM footprint and resource requirements to the bare minimum | 77 | 11
+50338728 | Ask HN: Who is hiring? (November 2026) | 222 | 184
+50331988 | Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform | 15 | 1
+50341736 | Egoless Mathematics in the AI Era | 167 | 124
+50341174 | Astra can read and write weights to improve Qwen | 2749 | 834
+
+===================================================================================

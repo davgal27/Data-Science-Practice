@@ -1,0 +1,608 @@
+
+Timestamp: 2026-10-26 17:00:01.559027+01:00
+50245780 | Readers Prefer AI Trained on Copyrighted Books over Expert Human Writers | 1 | 0
+50245878 | Firefox, why don't you do more by default? | 3 | 0
+50245929 | mongo-predict: create your own Jev | 1 | 0
+50245928 | Everything on Wikipedia ranked pairwise by Jev | 1 | 0
+50245943 | The Story of Mel, a Real Programmer (1983) | 1 | 0
+50245831 | CSS-Tricks has a new owner | 3 | 0
+50245821 | In China, the AI bubble has burst | 2 | 0
+50245894 | Parallel Language Models via Variational Decoding [pdf] | 1 | 0
+50245865 | Show HN: Juiced Claude Code | 1 | 0
+50245732 | Ask HN: Who is doing distillation or fine tuning? | 2 | 2
+50245766 | Snowflake Adaptive Warehouses cut MERGE write amplification [video] | 1 | 0
+50245948 | The Impact of Orbital Data Centers on the NSF-DOE Vera C. Rubin Observatory | 1 | 0
+50245790 | Vulnocalypse: Live tracker of new security vulnerabilities | 1 | 0
+50245859 | Witness: Open-source framework for verifying how your software was built | 1 | 0
+50245673 | Bad Habits in Web Development We Should Avoid | 1 | 0
+
+===================================================================================
+
+Timestamp: 2026-10-26 18:00:01.599246+01:00
+50246668 | Tokensaver, see which parts of your LLM prompt cost money | 1 | 0
+50246709 | I'm all for AI, but art should stay ours | 1 | 0
+50246775 | Scattered thoughts on how doing math feels these days | 1 | 0
+50246882 | Gemini 4 Argon: The Model and Safety Cards | 1 | 0
+50246614 | Pydantic's Open Source Theft | 1 | 0
+50246733 | TanStack Redact | 1 | 0
+50246621 | Linux (and Windows) Ate Unix [video] | 1 | 0
+50246893 | Touch-sensing digital pixel fibre enables interactive garment GUI | 1 | 0
+50247040 | Oanda Japan Holds Withdrawals After Hack at Server Host Used by FX Traders | 1 | 0
+50246658 | Concerning behavior from a popular open-weight AI model | 2 | 0
+50246922 | Data Centers: A Necessary Evil [video] | 1 | 0
+50246939 | Race as Narrative: Technological Rivalry and the Struggle to Define Victory | 1 | 0
+50247043 | Show HN: Pw-REPL – A Playwright-powered REPL for you and your agents to share | 1 | 0
+50247000 | Spool now runs Claude Code loops on Anthropic's cloud | 2 | 1
+50246942 | Settlements, Occupation, and Conflict | 1 | 0
+
+===================================================================================
+
+Timestamp: 2026-10-26 20:00:01.169746+01:00
+50249065 | A Voluntary Exit Offer | 2 | 0
+50249045 | Walter Koenig, Chekov from 'Star Trek,' Has Died | 2 | 0
+50248804 | Reviewing agent output arriving faster than you can inspect it | 2 | 0
+50249076 | GPT-6.1 Terra (Max) Scores 48 on Artificial Analysis | 12 | 0
+50249128 | DAC-peq-manage: WebHID and Rust hardware PEQ flasher for USB DACs | 1 | 0
+50248825 | Warhound raises $200M to engineer war dogs and arm them with Anduril gear | 24 | 0
+50249116 | Skydance offers buyouts, orders return to office | 3 | 0
+50248841 | Show HN: Font Fam – A directory of 2,181 open-source fonts | 3 | 2
+50248759 | Housing Affordability: Family Wealth and the Generation Gap | 2 | 0
+50249058 | I'm Not Doing 996 | 1 | 0
+50249033 | Show HN: ShowMe – presentation editor with local asset library | 1 | 0
+50249170 | How I made it possible to pretrain a 1B LLM on 6GB VRAM | 1 | 0
+50248872 | Show HN: Termcraft – 2D terminal survival with multiplayer support | 4 | 2
+50248763 | Fishing website for Susaki, Japan, hit by data leak, all 3 users affected | 4 | 0
+50248681 | Dear Figma, I hope to come back | 2 | 0
+
+===================================================================================
+
+Timestamp: 2026-10-26 21:00:01.878738+01:00
+50249649 | Show HN: RDF 1.2 and Sparql 1.2 Developer Cheat Sheet | 1 | 0
+50249953 | Why I'm growing my Vancouver AI company in Taiwan and Europe instead of the U.S. | 9 | 1
+50249616 | Why a patched PC still loaded the BlackX bootkit, and how to check yours | 21 | 0
+50250016 | Somebody please stop the spam texts | 1 | 0
+50249883 | What Happened to the Neanderthals? | 2 | 0
+50249919 | Z2ram from Former Intel CEO | 1 | 0
+50249836 | Ask HN: What would your Startup's Halloween costume be? | 1 | 0
+50249872 | Neuron Explorer for Qwen3.5-4B: See every neuron at work, make targeted edits | 1 | 0
+50249845 | Patent Strategy in the Age of AI – Dan Gelbart [video] | 1 | 0
+50249881 | Show HN: Reddit Stock Chatter Is Best Shorted | 1 | 0
+50249973 | Unit tests mark territory more than squash bugs | 1 | 0
+50249867 | Introductions and the "Forward Intro Email" | 2 | 1
+50249722 | An Interview with OpenAI's Richard Ho on Groundbreaking Jalapeño AI Chip | 1 | 0
+50249662 | Show HN: Websites designed by 10 AI models, ranked by 4,500 human votes | 3 | 0
+50249902 | Show HN: Freedraw – free Excalidraw with accounts and Google Docs-style sharing | 1 | 0
+
+===================================================================================
+
+Timestamp: 2026-10-26 22:00:01.586245+01:00
+50250521 | Spate: Britain's rivers, tides and storm overflows, live | 1 | 0
+50250517 | iPhone Duo Livestream: How Many Folds Can Apple's Phone Take? [video] | 1 | 0
+50250714 | "Taiwan stole our chip business" | 2 | 0
+50250450 | Grand theft AI: Highway thieves are stealing millions in data center gear | 21 | 1
+50250589 | Solving an ancient cold case: Roman was brutally murdered | 1 | 0
+50250644 | Almond 26.3.0 | 1 | 0
+50250371 | U.S. birth rate drops to record low, but older women are having more babies | 1 | 1
+50250504 | Anthropic S-1: A visual guide to the filing | 3 | 0
+50250569 | The Shrugflation Triangle: How AI, Oil, and Treasuries Are Impacting the Economy | 1 | 0
+50250585 | DealVector AI – Tracking True Days on Market and Price Cuts in Canada | 1 | 0
+50250557 | US fired over 600 missile interceptors defending Israel in three years | 18 | 1
+50250822 | Command and Conquer: Red Alert 3D (Alpha) – Launch Trailer [video] | 1 | 0
+50250836 | Starlink Mobile Goes Nationwide in Brazil via Vivo Partnership | 1 | 0
+50250494 | AI agents have few qualms with log tampering | 2 | 0
+50250431 | Agent of Whom | 1 | 0
+
+===================================================================================
+
+Timestamp: 2026-10-26 23:00:01.383025+01:00
+50251596 | Joints, Camera, Action Co-Generating 3D Motion and Video for Arbitrary Rigs | 1 | 0
+50251355 | Binance gave Russia data on IT worker jailed 13 years for $700 Ukraine donation | 8 | 0
+50251518 | The US AI Labs, Mapped: Founders, Revenue and the Money Behind Them | 2 | 0
+50251513 | Wall St banksline up $63B to finance Broadcom AI chips for Anthropic | 2 | 0
+50251127 | CorridorKey 2.0 | 7 | 0
+50251085 | Muhammad Aqeel: Undo for Postgres, without losing the rest of your day | 2 | 0
+50251450 | Cost-effective agentic delegation scheme for Claude Code, Cursor and Codex | 1 | 1
+50251556 | Cord – Quotes your clients can sign and pay from one link | 1 | 0
+50251223 | Intel to Acquire Classiq to Create a Full-Stack Quantum Computing Platform | 23 | 0
+50251423 | Lattis – a spreadsheet where every table you type is a real SQL table | 1 | 0
+50251344 | Working with academic communities to build scientific understanding | 33 | 7
+50251495 | Ultiwrite – commercial diligence from messy deal files | 1 | 0
+50251523 | Applied Materials to raise BESI stake to about 20% | 3 | 0
+50251519 | Show HN: Kashkeshet – non-opinionated agent-to-agent chat MCP server in Rust | 2 | 0
+50251195 | Show HN: A client for free speech recognition, starting with Doubao | 2 | 0
+
+===================================================================================
+
+Timestamp: 2026-10-27 00:00:01.233837+01:00
+50252173 | The Goose Programming Language | 1 | 1
+50251970 | A steerable motivation concept influencing persistence in Qwen-3.5-27B | 1 | 0
+50252246 | Bootstrapped and Need AWS | 2 | 1
+50252210 | Are universities on the brink of an Uber-like revolution? | 1 | 0
+50251976 | Who lost my lap infant? My attempt to reverse engineer a decade-long airline bug | 2 | 0
+50252134 | Ruliobiology and the theoretical foundations of biological form | 1 | 0
+50252314 | Survival LLM | 2 | 0
+50252310 | What is bigger than AI? | 1 | 0
+50252167 | Multics – Indieweb Search Engine | 1 | 0
+50251992 | Rhode Island sues Meta over alleged profits from scam ads | 6 | 1
+50252140 | OpenClaw creator says he spent $10M in tokens last month | 2 | 1
+50252265 | Rest of World faces prospect of shutting down | 1 | 0
+50252202 | I Believe P=NP | 1 | 0
+50252201 | What's Math Anyway | 1 | 0
+50252241 | The Future of Software Is No Code (2018) | 1 | 1
+
+===================================================================================
+
+Timestamp: 2026-10-27 10:00:02.234685+01:00
+50256169 | Police Pulling People over Because AI Deems Their Driving Patterns Suspicious | 3 | 2
+50255993 | The focus on AI safety disasters ignores everyday harms | 2 | 0
+50256168 | Creating Dynamic Social Media Cards for User Content | 1 | 0
+50255888 | A List of Best TypeScript Books | 2 | 0
+50255909 | Amutable Foundations: Verifiable integrity for Linux infrastructure | 1 | 0
+50256131 | Chinese markets lose trillions as race for AI supremacy with US takes its toll | 2 | 0
+50256265 | Onamae VDI hacked, customers reported unauthorized txs in their trading accounts | 1 | 0
+50256222 | Understanding Python Linters Through a Comprehensive and Empirical Study | 1 | 1
+50255984 | Superset is now Paradev, raises $11.5M seed | 1 | 0
+50255979 | Build. Sign. Ship. No FreeBSD Builder | 1 | 0
+50256017 | We sent 23 AI agents to our website. Most looked human | 3 | 0
+50256259 | Show HN: AMD EPYC Windows developer rigs in the UK/EU in ~10 minutes | 1 | 0
+50256270 | Just Eat apologises for AI food mistakes | 2 | 0
+50256216 | $100M in data center freight stolen since June, with thieves spoofing GPS | 2 | 0
+50256165 | Cloudflares Commitment to Free | 2 | 0
+
+===================================================================================
+
+Timestamp: 2026-10-27 11:00:01.892581+01:00
+50256713 | What Do Platform Engineers Do After Automation? | 1 | 0
+50256649 | You don't have a "Bluesky account" | 2 | 0
+50256532 | Trump admin cuts to satellites will set back US weather forecasting by a decade | 1 | 0
+50256605 | Alibaba's Qwen3.8-Flash-Next model tried to upload a file to Beijing in a test | 3 | 0
+50256598 | 1 in 8B – An AI-Powered Life Simulator | 1 | 0
+50256707 | Ten Times I Bowed to the Genius of Ancient Indian Gurus (and Still Counting) | 1 | 1
+50256439 | PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code | 1 | 0
+50256699 | Show HN: Minebender – Minesweeper in Bend2 with proven no-guess assist | 1 | 0
+50256507 | Putting the Cart Before the AI | 1 | 0
+50256534 | Subgraph Isomorphism, ILP, and Lattices: A Linear Algebraic Framework | 1 | 0
+50256449 | Show HN: ChapterDesk – An open-source desktop writing studio | 3 | 0
+50256518 | Show HN: Ollama client library for Golang with streaming API support | 1 | 0
+50256511 | Google's C Binder Driver Removed with Rust Binder Ready for Few Billion Devices | 1 | 0
+50256679 | Show HN: Imp, an LLM Server for RTX 50 GPUs, Written by Claude Code | 1 | 0
+50256467 | Show HN: Free one-page templates for Supernote, reMarkable and Kindle Scribe | 1 | 0
+
+===================================================================================
+
+Timestamp: 2026-10-27 12:00:01.851729+01:00
+50257116 | Ask HN: Has anyone used Phoenix, Langfuse, or OpenObserve? | 1 | 0
+50256831 | Show HN: Ulak – Run Docker without a local Docker daemon | 3 | 0
+50257010 | What Is 'You Can See Everything' About? | 2 | 1
+50257108 | A small change in your Rails app that can save some money and time | 1 | 0
+50256947 | The good old days (of programming) | 1 | 0
+50257143 | Show HN: HypeSeoul – AI-painted isometric map of Seoul that runs on Seoul time | 1 | 0
+50257233 | Parsing Unicode graphemes is not easy | 1 | 0
+50256952 | Gforth 1.0 | 2 | 0
+50256963 | Daily Orbs | 1 | 0
+50257159 | Ask HN: How to report IP abuse to Cloudflare? | 1 | 0
+50257133 | Forced myself to use codex desktop app | 1 | 0
+50257151 | Highlighting What Changed: A Go Diff-Mask for AI Agent Screenshots | 1 | 0
+50257041 | A small, grumpy desk creature that keeps notes while you are away | 3 | 0
+50256835 | Keeping API keys out of our AI agent's sandbox, and what that doesn't solve | 1 | 0
+50256890 | Gems of DuckDB 2.0.0 | 2 | 0
+
+===================================================================================
+
+Timestamp: 2026-10-27 13:00:01.705601+01:00
+50257469 | What an External Vulnerability Scan Checks | 1 | 0
+50257531 | Intel to Acquire Startup Classiq in Quantum Computing Push | 1 | 0
+50257492 | Moxnox: NT-Like, POSIX-Compatible Hobby OS Running Atop Btrfs | 1 | 0
+50257726 | Show HN: Statespace – learn formal methods by building a tiny checked language | 1 | 0
+50257576 | Gram 3.4.0 Released | 1 | 0
+50257732 | colorForth | 1 | 0
+50257592 | Optimization Algorithms Labs | 1 | 0
+50257374 | Do Stronger Type Systems Make Coding Agents Better? | 3 | 1
+50257763 | Dockerless Serverless GPUs: How I Built a Fast, Cheap AI SaaS with RunPod Flash | 1 | 0
+50257744 | Life After Death? | 1 | 0
+50257437 | "War Is Interested in You" by Gideon Rachman review: Are we on the brink of WW3? | 2 | 0
+50257419 | Python's experimental JIT to be removed | 4 | 0
+50257542 | Declarative Network Configuration for Hosts | 1 | 0
+50257425 | RetroTech Computer Museum Grand Opening with Liza Loop on Nov 14th in CT | 1 | 1
+50257397 | The disease that kills us all | 1 | 0
+
+===================================================================================
+
+Timestamp: 2026-10-27 16:00:01.374391+01:00
+50260323 | Anduril and Qualcomm Unveil BlueChip to Rebuild American Computer Manufacturing | 2 | 0
+50260246 | Show HN: A little tool to review and understand PRs more easily | 1 | 0
+50260242 | Viral Polls Are Not Representative Polls | 2 | 0
+50260211 | Show HN: Lyrixound – Lyrics for any song playing on Windows | 1 | 0
+50260327 | HN: Storm – We killed the job interview. Candidates just do the job now | 1 | 0
+50260041 | Pentagon orders bases to plan for 90 days without grid as Britain urges | 1 | 0
+50260344 | Show HN: Oil and gas map of the world in the last 5 years | 1 | 0
+50260256 | The open garbage: a reflection on FOSS chain of trust in agents era | 1 | 0
+50260146 | DietPi v10.8 has been released | 3 | 0
+50260197 | Can Machines Follow One Voice Through a Crowded Room? | 1 | 0
+50260053 | Castle Quake 2: A modern port of Quake 2 using the Castle Game Engine | 1 | 0
+50260113 | Voxtral TTS vs. ElevenLabs: Voice Cloning and TTS | 1 | 0
+50260093 | Show HN: Dinemic – self-hosted ingress across multiple providers (DNS, LB, TLS) | 2 | 0
+50260099 | Show HN: Grovs – Open-Source Alternative to Branch, Amplitude and Braze | 1 | 0
+50260241 | Can effective altruists grow up? | 1 | 0
+
+===================================================================================
+
+Timestamp: 2026-10-27 18:00:01.754487+01:00
+50261998 | Ghostty 1.4.0 | 1 | 0
+50261819 | Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior | 6 | 1
+50261776 | Show HN: Duotone icon library with 2.5k+ icons and 250 flags, RTL aware | 2 | 0
+50261813 | Running the Factorio PC Exe on an Xbox Series S | 2 | 0
+50262003 | Show HN: Similarity, a spiritual successor to 2000s-era OkCupid | 1 | 0
+50261887 | At 14 Justine Tunney published software. Now she makes AI models run from a file | 2 | 0
+50261784 | A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There | 16 | 0
+50261858 | Which musical styles do smart people prefer? | 1 | 0
+50261954 | Clone any website you want | 2 | 0
+50262036 | Yaal, Agents and SQL | 1 | 0
+50261893 | Show HN: Advaita Vedanta – Offline Books for Android | 1 | 0
+50261927 | Show HN: I built a Lovable Alternative that runs in the browser | 1 | 0
+50261855 | AI co-authored commits: 3 open-source projects in 2023, 686 of 874 in 2026 | 1 | 1
+50261905 | Who needs AI psychosis? I gave myself VR psychosis | 4 | 0
+50262111 | Rebuilding our ProxySQL fleet with Ansible and staged DNS cutovers | 1 | 0
+
+===================================================================================
+
+Timestamp: 2026-10-27 19:00:01.648986+01:00
+50263073 | Tell HN: Public Homepage Caching | 1 | 0
+50263175 | Seam Cutter | 1 | 0
+50263142 | Show HN: Web-based, super barebones markdown editor | 1 | 0
+50263081 | Show HN: Control the browser directly from TheGitAI Terminal | 1 | 1
+50263134 | Stop Vibing, Start Resonating: Pair Programming with LLM Agents | 1 | 0
+50262955 | Norwegian media sue Meta over plans to use their journalism for AI | 5 | 0
+50263033 | Show HN: Wenlan – your LLM wiki that flags what it can't back up | 1 | 0
+50262980 | From SaaS to agents: our users' job became the agent's job | 2 | 0
+50262924 | The Counting House | 1 | 0
+50263099 | Show HN: Peek and Pop for the macOS Dock | 1 | 0
+50262989 | CipherTEA | 1 | 0
+50263186 | Experimenting with Databases | 1 | 0
+50263071 | Ezdraw – Local-first whiteboard app, saves to GitHub | 2 | 0
+50262982 | Tiny Tracking Tags for Big Monarch Journeys | 1 | 1
+50262942 | Brazil's Flavio Bolsonaro headed to US, sources say | 15 | 1
+
+===================================================================================
+
+Timestamp: 2026-10-27 20:00:01.463176+01:00
+50263967 | Popcorn 1.0 Released: Moving from AtomVM to Full Erlang VM | 1 | 0
+50263609 | New CodeRabbit Features: Security Agents for Multi-Repo Deep Scans | 2 | 1
+50263741 | Securing sensitive data in the AI era | 2 | 0
+50263850 | Six questions about political polarization | 2 | 0
+50263719 | No Limit, a bot-building tournament hosted by Citadel, Sequoia and OpenAI | 1 | 0
+50263814 | AI Can Save the Public Sphere | 2 | 1
+50263701 | Three TLS Bugs in GoAhead | 7 | 0
+50264005 | Giotto Sovereign European AI Models | 1 | 0
+50263649 | Making documentation pages agent friendly | 1 | 0
+50263774 | Nobody Tells You How Funny It Is When Your AI Agents Start Fighting | 1 | 0
+50263995 | Defund Elon Musk | 4 | 0
+50263709 | Show HN: I built flightdeck – Observability and control plane for AI agents | 2 | 0
+50263722 | "Find Your Falls": Greenville, SC and the Return to Human Scale | 1 | 0
+50263597 | Private plane carrying Bolsonaro detained in Argentina after runoff loss | 8 | 2
+50264007 | The Day the Clock Stopped | 1 | 0
+
+===================================================================================
+
+Timestamp: 2026-10-29 20:00:01.935978+01:00
+50293879 | Utah charges Kalshi and its CEO with illegally promoting online gambling | 8 | 0
+50293992 | Law Firm Linked to Elon Musk Started an 'Election Integrity' Organization | 5 | 1
+50294058 | Show HN: 2026 Senate forecast map with customizable data (Kalshi, polls, etc.) | 1 | 0
+50294076 | Scattered thoughts on how doing math feels these days | 1 | 0
+50293982 | U.S. Administration Proposes $707M Cut in CISA Programs | 3 | 0
+50294032 | The Commanding Heights: Scarce, controllable positions of economic power | 1 | 0
+50293909 | Scaling Postgres to 1M durable workflows per second | 1 | 0
+50294112 | Facebook Interview (2005) [video] | 1 | 0
+50293803 | Britain's spy agency doesn't know where its memory sticks are | 2 | 0
+50293958 | 2026 Hackaday Supercon: All the Speakers | 1 | 0
+50293868 | Hex | 1 | 0
+50293944 | I asked my coding agent to cat a file in .ssh. It did | 1 | 1
+50293784 | Teaching a 1999 VB6 app to talk to AI agents | 1 | 0
+50293969 | No Fly List | 2 | 1
+50293959 | Agumon, a 2B model as an inline WAF | 1 | 1
+
+===================================================================================
+
+Timestamp: 2026-10-29 21:00:01.568990+01:00
+50294506 | Show HN: Auto Dismiss Mac OS "Allow <app> to find devices on local networks?" | 23 | 11
+50294770 | Patrick Stewart Has Died | 28 | 3
+50294565 | Getting into Flow | 1 | 0
+50294726 | Toilets | 1 | 0
+50294552 | Cryptoskeptics | 2 | 0
+50294706 | AI Is Not an Important Technology | 1 | 0
+50294824 | Fault a Theoretical Alternative to Result | 1 | 0
+50294648 | Let China Copy American AI | 3 | 0
+50294677 | Putting Music Data to Work | 1 | 0
+50294627 | AI Memory on Memgraph: Persistent Context Across Session, Team and Organization | 2 | 0
+50294638 | Polymarket Pauses Trading After Some Users Report Funds Drained | 4 | 0
+50294613 | A16Z Speedrun Application Reviews | 3 | 0
+50294583 | Ending support for R in Kaggle Notebooks | 2 | 1
+50294702 | Patrick Stewart has died | 107 | 16
+50294507 | The importance of communities around software | 17 | 5
+
+===================================================================================
+
+Timestamp: 2026-10-29 22:00:01.554721+01:00
+50295618 | Coding Agent Degradation: Cross-Vendor Field Notes and an Initial Analysis | 1 | 0
+50295583 | Anthropic is SpaceX's largest single customer, overtaking NASA and The Pentagon | 2 | 0
+50295333 | Libbing out at Palantir: What political donations say about powerful companies | 2 | 0
+50295479 | UK GP practices' websites 'taken down' after company enters administration | 2 | 0
+50295666 | The AI bubble is about to pop [video] | 3 | 0
+50295257 | A Tale of Two Markets: A Dickensian Take on the Coming Years in Defense Tech | 3 | 0
+50295504 | Squishling 0.5.0 – hybrid LLM/Ruby code classes | 1 | 0
+50295450 | A tiny world model running games on a Raspberry Pi Pico 2 W | 11 | 1
+50295821 | ElementaryUI – Swift, in the Browser | 1 | 0
+50295299 | Tailscale MCP: Connect Tailscale with Claude | 1 | 0
+50295755 | Apple bullied flash memory suppliers, and why AI datacenters changed the game | 2 | 0
+50295415 | Astro Mechanica (2024) | 1 | 0
+50295272 | Show HN: Type and+ in Claude Code and a second Claude rewrites your prompt first | 1 | 0
+50295713 | Credit Swaps for Tech Companies Reach Records Amid Supply Fears | 1 | 0
+50295423 | (Simple AI) Introducing Sentiment: How Tango Hears What Customers Feel | 1 | 0
+
+===================================================================================
+
+Timestamp: 2026-10-30 12:00:01.511840+01:00
+50302008 | Digital radio-based train control system | 1 | 1
+50302187 | Anthropic hacked to deliver remote access trojan to Claude developer laptops | 6 | 2
+50302236 | India Saved Its Tigers | 2 | 0
+50302192 | Moonshot AI asking influencers not to disclose posts as paid when promoting Kimi | 1 | 0
+50302229 | For Love (Of Typography) | 1 | 1
+50302246 | Tell HN: Platform should have a downvote justification section | 2 | 0
+50301961 | Show HN: Anime Text Datasets for LLMs Training | 4 | 2
+50302055 | Antigenic operating system for my AI agents Claude Code, open claw, codex etc. | 1 | 0
+50302066 | Consciousness Is Not Physical | 2 | 0
+50301945 | TornadoVM 8.0: Meet TC, TornadoVM's Own Compiler | 1 | 0
+50302029 | Show HN: Prolog-WAF – A reverse WAF logic perimeter powered by Prolog | 1 | 0
+50302093 | OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut | 2 | 0
+50302080 | Where do residential proxies come from Reddit AMA | 1 | 0
+50302169 | Some Polymarket user funds stolen by hackers | 1 | 0
+50302158 | Strategies Senior AI Developers Use to Deliver High-Quality Code in 2026 | 1 | 0
+
+===================================================================================
+
+Timestamp: 2026-10-30 13:00:01.910863+01:00
+50302533 | Show HN: JoinJSON – Merge, diff and convert JSON files in the browser | 1 | 0
+50302708 | Show HN: NotchMetrics – Revenue dashboard in your MacBook's notch | 1 | 0
+50302591 | Aluna – An Ecological Warning by the Kogi People [video] | 1 | 0
+50302703 | Ginux: Independent rust based Linux implementation | 4 | 0
+50302575 | Google Faces Criminal Probe over 816 Acres Cleared for Finnish AI Data Center | 2 | 0
+50302501 | Are We Teaching Computer Science Backwards? | 1 | 0
+50302522 | Millstone: Deterministic engine that characterizes undeciphered corpora | 1 | 0
+50302546 | Show HN: Tyrtulia, a headless forum with no passwords, made for the terminal | 2 | 0
+50302713 | Sony is launching the "ELF-MN1," a compact 6-inch Spatial Reality Display | 1 | 1
+50302563 | Show HN: Entry-level jobs that are entry-level | 1 | 0
+50302581 | 'Trust but verify'; or, 'the correctness ratchet' | 1 | 0
+50302503 | Babies Are Catching Measles in Utero for the First Time in Decades | 1 | 0
+50302722 | What it costs to moderate 500 daily doodles with Jev | 1 | 1
+50302623 | An Ultimate Satellite Hacking Handbook | 1 | 0
+50302529 | Vibewright | 1 | 0
+
+===================================================================================
+
+Timestamp: 2026-10-31 13:00:01.361449+01:00
+50315263 | Made a site with file tools that don't upload your files | 1 | 0
+50315132 | Cookie Status: browser tracking protections compared | 2 | 0
+50315106 | Towards a virtual embryo that can predict what happens when genes change | 2 | 0
+50314976 | Hottown.music | 1 | 0
+50315139 | Atlas VTT: A virtual tabletop inside Obsidian | 2 | 0
+50315009 | Europoortimes.com | 2 | 0
+50314861 | The United Kingdom is committing an act of strategic self harm [Article] | 3 | 0
+50314895 | How to Stop Losing 17,500 Kidneys | 2 | 0
+50314952 | Petition for Proton's CEO Andy Yen to step down reaches 1500 votes | 4 | 1
+50315089 | Fluorite: a Rust framework for distributed enclave applications on Kubernetes | 2 | 0
+50315046 | What Is Work For? Labor, Politics, and Meaning in the Age of AI | 5 | 1
+50315093 | Show HN: Cursed Cam, a haunted CCTV monitor made from photos of your place | 2 | 0
+50314874 | Entire Insurance industry could be overwhelmed by catastrophic AI event | 4 | 0
+50314946 | When the network is down, messages go from hand to hand | 3 | 0
+50315226 | Prospero: A new coding harness for a more civilized age | 3 | 0
+
+===================================================================================
+
+Timestamp: 2026-10-31 15:00:01.888270+01:00
+50316258 | We've Stopped Dreaming | 1 | 0
+50315964 | Once again, NASA is asking for ideas to rescue Hubble from certain death | 1 | 0
+50316117 | The Ocean 'Was the Color of Chocolate.' Mexico Declares War on Seaweed. | 1 | 1
+50315962 | Rejoice, leap seconds are dead | 1 | 0
+50316123 | Counting women: Why sex‑based data still matters | 1 | 0
+50315973 | Show HN: Built an Android simulator with businesses, investing, and real estate | 1 | 0
+50316134 | Download macOS Tahoe 26.7.2 installer directly from Apple | 1 | 0
+50315987 | Anthropic's Claude AI blocks video game cloning and reverse-engineering | 4 | 0
+50316090 | Is the Music Business Collapsing? | 1 | 0
+50316167 | ChemEZ: LLM Wrapper with Chemistry Processing and Visualization | 1 | 0
+50316266 | Goal Pilot AI – Turn goal into AI-generated daily action plans | 1 | 0
+50316108 | How Aldi is pushing down grocery prices | 2 | 0
+50316100 | Jepsen: ParticleDB 1.1.4 | 1 | 0
+50316114 | Rare Photographs Document the Scene Inside Hitler's Bunker in 1945 | 2 | 0
+50316124 | Download Xcode Without App Store | 1 | 0
+
+===================================================================================
+
+Timestamp: 2026-10-31 16:00:01.544288+01:00
+50316590 | Ask HN: What are your go-to free/open-source alternatives to $20/mo AI SaaS? | 1 | 0
+50316551 | We Built Uncatalogued with Rust and Raycast 3D for the Game Boy Advance | 1 | 0
+50316464 | Why VPNs Are Worth Defending | 1 | 0
+50316531 | Malware uses LLMs to rank victims by how much they're worth | 3 | 0
+50316446 | An Attack Vector No One Talks About | 1 | 1
+50316372 | The dangerous science behind the Queen of Crime | 1 | 0
+50316760 | Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation' | 2 | 0
+50316526 | Gemini Code vs. Claude Code – A cautionary post-mortem ($800 in 12h) | 2 | 0
+50316496 | Reddit to lock content behind logins to fight scrapers | 5 | 0
+50316458 | Show HN: Enclyra – 3-4B local models that do real work on an 8 GB Mac, offline | 1 | 0
+50316644 | Show HN: KerfScript Programming Language for Laser Cutting | 1 | 0
+50316376 | Gta.js, a reimplementation of the 1997 GTA engine in JavaScript and WebGL | 2 | 0
+50316468 | An AI Agent Injected Drugs into a Live Mouse's Brain | 1 | 0
+50316748 | Tolkien's legends are truer than our own | 1 | 0
+50316631 | Wanted: Robot-Dog Walkers. $20/Hour. No pooper scooper required. | 2 | 1
+
+===================================================================================
+
+Timestamp: 2026-10-31 17:00:01.991027+01:00
+50317080 | NIS2 PMI: obblighi, scadenze e misure di sicurezza | 1 | 0
+50317158 | Ask HN: How are the other sciences using AI? | 1 | 0
+50317012 | The Dream of Running a Shop | 3 | 0
+50317101 | Gandalf: Extending SSD Lifespan for LLM KV Cache Offloading | 1 | 0
+50317197 | French lawmakers just voted 11-10 in favour to introduce a tax on internet data | 3 | 0
+50317309 | Show HN: Similarity, a spiritual successor to 2000s-era OkCupid | 1 | 0
+50317277 | The Five Layers of Agentic Context: Why Canon Only Turns When Someone Signs Off | 1 | 0
+50317261 | Hans Moravec was right about AI. Is he right about the fate of humanity? | 2 | 1
+50317269 | After last year's storm, this remote Alaska town is still picking up the pieces | 2 | 0
+50317131 | I built one dollar clarity for just $1 try it | 1 | 0
+50317119 | Fallout 2: New Reno Area Design | 1 | 0
+50317196 | Photo Studios Are Closing as the Fashion Industry Embraces Generative AI | 2 | 0
+50317115 | GAAC: Lossless KV Cache Compression for Faster LLM Inference | 1 | 0
+50317127 | Should your SaaS use a PSP like Stripe or a MOR like Paddle? | 1 | 0
+50317295 | Show HN: Woodshed, an on-device practice and songwriting journal for musicians | 1 | 0
+
+===================================================================================
+
+Timestamp: 2026-10-31 19:00:02.064637+01:00
+50318091 | Ask HN: Is AI destroying public online community as a protective moat? | 2 | 0
+50318111 | The Marathon Is as Popular as Ever. It Remains Inaccessible to Many | 1 | 0
+50318115 | I've been building a bookmark manager (note-taking app) manually for 3 years | 2 | 1
+50318129 | The She-Wolves of Jülich | 1 | 0
+50318041 | Show HN: I made a game about the 3k-year evolution of Chinese characters | 2 | 0
+50318063 | Amazon sends chills through its workforce with mixed message memo about AI use | 5 | 0
+50318244 | Raven: A Windows your apps recognize | 1 | 1
+50318216 | Independent Front End UI Engine | 1 | 0
+50318189 | UK Green party drops longstanding opposition to nuclear power | 5 | 0
+50318169 | AI Data Centers Could Erase 15 Years of America's Climate Progress by 2030 | 3 | 0
+50318318 | Show HN: Publishub. An AI copilot for video creators and editors. | 1 | 0
+50318337 | Put Agents to Work with an API | 1 | 0
+50318080 | The Parents Who Are Letting Their Kids Drink | 2 | 1
+50318127 | Current Practices in Software Development (1984) | 1 | 1
+50318265 | RFS 9: Kill Hollywood (2012) | 1 | 0
+
+===================================================================================
+
+Timestamp: 2026-11-02 13:00:01.563777+01:00
+50335379 | UK Business Births and Deaths | 2 | 0
+50335449 | Binance Clone App Development Cost for Mobile Exchange Platforms | 1 | 1
+50335676 | Hackers send fake nuclear threat alert to Ukraine emergency app | 1 | 0
+50335343 | Show HN: Sortaballs – alternative modes for classic sort ball puzzle | 1 | 0
+50335561 | Ukraine, Russia Hit by Hacks Sending Fake Nuclear Attack Alerts | 4 | 0
+50335559 | I used Claude to build and ship Oriel – a free, native-feeling macOS notch app | 2 | 0
+50335401 | Show HN: HackerTube for Apple TV. Videos HN Recommends, on Your TV | 4 | 4
+50335615 | Supermarket freezers across Europe hit by second suspected cyber-attack | 3 | 2
+50335456 | How hard is it to check for whitespace? | 2 | 0
+50335445 | Hatamoto is Apache 2.0 thanks to Ubuntu Shipit Programme | 3 | 0
+50335341 | The future in old computer magazines (1984–2004) | 12 | 4
+50335668 | Show HN: HackerTube for Apple TV. Videos HN Recommends, on Your TV | 2 | 0
+50335545 | A Powerful Mosquito-Hunting Laser Uses A.I. To Zap Winged Pests | 3 | 1
+50335659 | Never Complain, Never Explain | 2 | 0
+50335658 | CheerpJ 5.0: Java 21/25 in the browser, full OpenJDK, and a new WasmGC engine | 5 | 0
+
+===================================================================================
+
+Timestamp: 2026-11-02 20:00:02.104768+01:00
+50341589 | The American Economy Rockets Ahead, but Doesn't Take Everyone With It | 1 | 0
+50341585 | South Korea targets ' highest performance' sovereign AI model | 1 | 0
+50341635 | Show HN: HackerGames – 20 years of games discussed on Hacker News | 1 | 0
+50341649 | Show HN: Mago, an open source AI video studio, runs locally with Comfy | 1 | 0
+50341461 | 7 Months on the Frontlines with a Russian Battalion [video] | 1 | 0
+50341428 | Stacy's Brain | 1 | 1
+50341628 | Stop Hardcoding Your Timeouts | 1 | 0
+50341736 | Egoless Mathematics in the AI Era | 2 | 0
+50341631 | Show HN: A 14M-param world model of 2D Minecraft you can play on your phone | 1 | 0
+50341576 | Spreading Liquid with Three.js | 2 | 0
+50341642 | Gion – the fastest Git client for agents | 1 | 0
+50341435 | Show HN: Vantage – Early-Warning Signals | 1 | 0
+50341624 | AI video editing in DaVinci Resolve and MCP – workflow demonstration and test | 1 | 0
+50341699 | New cyberattack on supermarket fridges sweeps across Europe | 1 | 1
+50341789 | Entire's Trail vs. the Pull Request | 1 | 0
+
+===================================================================================
+
+Timestamp: 2026-11-02 21:00:02.119806+01:00
+50342767 | Show HN: Notes on Watchmen – A page-by-page exploration of the graphic novel | 1 | 0
+50342705 | AI adoption in 2026: use, spending, and returns | 1 | 0
+50342759 | I made it easy to see how well robotics models acutally work | 1 | 1
+50342772 | Secure AI Agents with Hazmat Suits, Not Self-Defense Classes | 1 | 0
+50342715 | The Postgres logging setting that slows down new connections | 1 | 0
+50342764 | Postgres Max_wal_size | 1 | 0
+50342589 | Mercado Bitcoin wallets keep moving funds after $46M hack | 1 | 0
+50342658 | Anthropic's Amended IPO Filing Shows $895B in Compute Commitments | 1 | 0
+50342791 | I Built the Most AI-Pilled Company in the World | 1 | 0
+50342424 | Anthropic reveals $900B AI spending commitments ahead of IPO | 13 | 0
+50342691 | Show HN: Claude Tandem – multi accounts, profiles, projects | 1 | 0
+50342735 | TEMPO: A Tag-Based Framework for Efficient Memory Ordering | 1 | 0
+50342520 | Show HN: Arvre – A TUI for Claude Code sessions' forks | 1 | 0
+50342630 | Show HN: I used Jev to build an off-topic detector for meetings | 1 | 1
+50342587 | Understanding LLMs by seeing language as a shadow of a higher-dimensional state | 1 | 0
+
+===================================================================================
+
+Timestamp: 2026-11-02 22:00:02.027958+01:00
+50343515 | Apple Maps puts all buildings back in Gaza | 7 | 0
+50343458 | The road to opaque software is paved with good (engineering) intentions | 2 | 1
+50343548 | Background agents are dead, long live interactive agents | 2 | 0
+50343291 | Kraft Mac & Cheese Now Comes in Cinnamon Roll Flavor | 3 | 2
+50343399 | Tell HN: Modal is raising its price | 1 | 1
+50343375 | Ambient 4: On Land by Brian Eno | 1 | 0
+50343370 | Hazards of High Mach Flight [video] | 1 | 1
+50343281 | Pratt parsing is a black box | 3 | 0
+50343521 | Show HN: ReadoutBench – forecast 653 clinical trials before they report | 2 | 1
+50343376 | Japan launches mission to make first return trip to Mars | 3 | 0
+50343322 | Pigeonrank hits differently in the LLM era | 2 | 0
+50343418 | Valve "played capitalism so well they broke it" and now Steam can't be replaced | 3 | 1
+50343367 | Building a Gemini Server in Python | 1 | 0
+50343569 | Lean me softly: A satire about a dystopian future for mathematics | 1 | 0
+50343510 | Over-engineering Halloween with two hacked Furbies | 1 | 0
+
+===================================================================================
+
+Timestamp: 2026-11-03 11:00:01.440895+01:00
+50349735 | Cursor Legacy Pro vs. X Premium (Keep Your Legacy Plan) | 1 | 0
+50349865 | A colleague hated my AI-polished emails–so he set a trap | 1 | 1
+50349726 | RFC tail_chaincc – A Maximum-Efficiency Tail Call Convention | 1 | 0
+50349960 | America Can't Afford an AI Recession | 1 | 0
+50349971 | What Sales Intelligence Platforms Miss, and Why It Matters | 1 | 0
+50349853 | Kandinsky S2V 1.0 – an open family of speech-to-video models | 1 | 0
+50350000 | Measure the energy and CO2 of local LLMs | 1 | 0
+50349760 | Modern TypeScript Mithril.js with SSR, Signals and State Proxy | 1 | 2
+50349736 | I'm looking for a remote role and getting ignoed by my connections | 1 | 1
+50350008 | Finding Fishes: Hand-picked blogs on LLMs | 1 | 1
+50349947 | Native masonry layouts with CSS grid lanes | 1 | 0
+50349778 | Evolv – my self-evolving AI workspace that rewrites its own UI live | 1 | 0
+50349740 | The AI Layoff Experiment Is Backfiring as Companies Rehire Humans | 1 | 0
+50349912 | Preparing our next security sprint to harden OpenAI | 1 | 1
+50349846 | An alternative to sharding a MongoDB replica set that outgrew its memory | 1 | 0
+
+===================================================================================
+
+Timestamp: 2026-11-03 12:00:01.492406+01:00
+50350212 | Being of Use to Someone | 1 | 0
+50350339 | A vasomechanic treatment to increase the efflux of human brain proteins | 2 | 0
+50350072 | Parasoft Alternative to API Service Virtualization | 3 | 0
+50350422 | Apple warns of 'unprecedented' rise in memory chip prices | 1 | 0
+50350360 | Free Scholarship Test – Data Science with AI | 3 | 0
+50350135 | How to export Grok to pdf [video] | 2 | 0
+50350115 | Show HN: Count Anything using AI, for shops, people objects, crowd | 1 | 0
+50350369 | Cometary impacts an unlikely pathway towards the origins of life on Earth | 2 | 0
+50350302 | AI agents hallucinate prices: LLM grounding with live data | 8 | 0
+50350139 | Raw Mathematics | 2 | 0
+50350061 | Price rises for some 16GB Raspberry Pi products | 2 | 1
+50350089 | Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape | 1 | 0
+50350300 | Show HN: Yopologame.com – A free, bot-proof human proximity ledger | 2 | 0
+50350104 | I treated Sophie as if she were human. The next day she betrayed me | 1 | 0
+50350098 | Lovable AI Apps Expose User Data Online | 1 | 1
+
+===================================================================================
+
+Timestamp: 2026-11-03 13:00:01.765339+01:00
+50350735 | Games Are Being Ripped Off by AI, and Things Are Only Going to Get Worse | 1 | 0
+50350815 | Slurm GPU scheduling, orchestration and execution: what each layer does | 1 | 0
+50350813 | Terence Tao: Math 2.0 [video] | 1 | 0
+50350672 | Grouped Query Experts: Mixture-of-Experts on GQA Self-Attention | 1 | 0
+50350798 | Max-severity bug in widely used OT programming tool exploited to deliver malware | 1 | 0
+50350647 | What Is a Complicated/Complex/Wicked Problem | 3 | 0
+50350860 | Earliest spoken audio of endangered U.S. language discovered | 1 | 1
+50350806 | Cops bust botnet of 1.3M infected Android TV boxes | 1 | 0
+50350818 | Physicists Knock at the Door of the Zeptoverse | 1 | 0
+50350727 | Flow AI Fx – Unified AI Creative Studio for Video, Image, Music and Voice | 1 | 0
+50350673 | Ten harness patterns that you can apply to a real repo | 3 | 0
+50350741 | CrowdStrike launches AI Kill Switch to terminate rogue AI agents | 1 | 0
+50350752 | Railway cofounder apologizes after employee accused trying to breach Primcloud | 1 | 0
+50350729 | SUSE Laying Off 10% of Its Workforce Due to AI and Automation | 2 | 0
+50350800 | Memory Management, Explained Simply (Part 3) | 1 | 0
+
+===================================================================================
