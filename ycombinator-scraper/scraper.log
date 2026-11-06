@@ -1,1 +1,783 @@
 Scraper finished at 2026-11-03 15:30:09.689770+01:00
+Scraper finished at 2026-11-03 15:40:09.496165+01:00
+Scraper finished at 2026-11-03 15:50:11.526856+01:00
+Scraper finished at 2026-11-03 16:00:14.365792+01:00
+Scraper finished at 2026-11-03 16:10:10.368689+01:00
+Scraper finished at 2026-11-03 16:30:11.326187+01:00
+Scraper finished at 2026-11-03 16:40:11.191260+01:00
+Scraper finished at 2026-11-03 16:50:10.184927+01:00
+Scraper finished at 2026-11-03 17:10:24.594456+01:00
+Scraper finished at 2026-11-03 17:20:10.730266+01:00
+Scraper finished at 2026-11-03 17:30:15.108537+01:00
+Scraper finished at 2026-11-03 17:40:37.022838+01:00
+Scraper finished at 2026-11-03 17:50:09.516948+01:00
+Scraper finished at 2026-11-03 18:00:24.619241+01:00
+Scraper finished at 2026-11-03 18:10:17.006171+01:00
+Scraper finished at 2026-11-03 18:20:09.786412+01:00
+Traceback (most recent call last):
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connectionpool.py", line 470, in _make_request
+    self._validate_conn(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connectionpool.py", line 1125, in _validate_conn
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connection.py", line 878, in connect
+    wrapped_socket, is_verified = _ssl_wrap_socket_and_match_hostname(
+                                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connection.py", line 1080, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/util/ssl_.py", line 437, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/util/ssl_.py", line 481, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+TimeoutError: _ssl.c:1064: The handshake operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/util/retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connectionpool.py", line 494, in _make_request
+    raise new_e
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connectionpool.py", line 472, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=conn.timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connectionpool.py", line 373, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='news.ycombinator.com', port=443): Read timed out. (read timeout=20)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 31, in <module>
+    page = requests.get(url, timeout=20)
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/api.py", line 87, in get
+    return request("get", url, params=params, **kwargs)
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/adapters.py", line 742, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='news.ycombinator.com', port=443): Read timed out. (read timeout=20)
+Scraper finished at 2026-11-03 19:00:10.460949+01:00
+Scraper finished at 2026-11-03 19:10:46.472422+01:00
+Scraper finished at 2026-11-03 19:20:29.021967+01:00
+Scraper finished at 2026-11-03 19:30:17.941757+01:00
+Scraper finished at 2026-11-03 19:40:09.678917+01:00
+Scraper finished at 2026-11-03 19:50:18.296648+01:00
+Scraper finished at 2026-11-03 20:00:26.760792+01:00
+Scraper finished at 2026-11-03 20:10:11.752962+01:00
+Traceback (most recent call last):
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connectionpool.py", line 470, in _make_request
+    self._validate_conn(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connectionpool.py", line 1125, in _validate_conn
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connection.py", line 878, in connect
+    wrapped_socket, is_verified = _ssl_wrap_socket_and_match_hostname(
+                                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connection.py", line 1080, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/util/ssl_.py", line 437, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/util/ssl_.py", line 481, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+TimeoutError: _ssl.c:1064: The handshake operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/util/retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connectionpool.py", line 494, in _make_request
+    raise new_e
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connectionpool.py", line 472, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=conn.timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connectionpool.py", line 373, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='news.ycombinator.com', port=443): Read timed out. (read timeout=20)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 31, in <module>
+    page = requests.get(url, timeout=20)
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/api.py", line 87, in get
+    return request("get", url, params=params, **kwargs)
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/adapters.py", line 742, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='news.ycombinator.com', port=443): Read timed out. (read timeout=20)
+Scraper finished at 2026-11-03 20:30:17.725184+01:00
+Scraper finished at 2026-11-03 20:40:10.214051+01:00
+Scraper finished at 2026-11-03 20:50:12.710852+01:00
+Scraper finished at 2026-11-03 21:00:35.326178+01:00
+Scraper finished at 2026-11-03 21:10:18.491966+01:00
+Scraper finished at 2026-11-04 16:30:10.182490+01:00
+Scraper finished at 2026-11-04 16:40:10.269870+01:00
+Scraper finished at 2026-11-04 16:50:10.662608+01:00
+Scraper finished at 2026-11-04 17:00:10.664747+01:00
+Traceback (most recent call last):
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connection.py", line 239, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/socket.py", line 989, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connectionpool.py", line 494, in _make_request
+    raise new_e
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connectionpool.py", line 470, in _make_request
+    self._validate_conn(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connectionpool.py", line 1125, in _validate_conn
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connection.py", line 827, in connect
+    self.sock = sock = self._new_conn()
+                       ~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connection.py", line 246, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: HTTPSConnection(host='news.ycombinator.com', port=443): Failed to resolve 'news.ycombinator.com' ([Errno -3] Temporary failure in name resolution)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/util/retry.py", line 555, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='news.ycombinator.com', port=443): Max retries exceeded with url: /newest (Caused by NameResolutionError("HTTPSConnection(host='news.ycombinator.com', port=443): Failed to resolve 'news.ycombinator.com' ([Errno -3] Temporary failure in name resolution)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 31, in <module>
+    page = requests.get(url, timeout=20)
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/api.py", line 87, in get
+    return request("get", url, params=params, **kwargs)
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/adapters.py", line 729, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='news.ycombinator.com', port=443): Max retries exceeded with url: /newest (Caused by NameResolutionError("HTTPSConnection(host='news.ycombinator.com', port=443): Failed to resolve 'news.ycombinator.com' ([Errno -3] Temporary failure in name resolution)"))
+Scraper finished at 2026-11-04 19:50:11.725747+01:00
+Scraper finished at 2026-11-04 20:00:09.775633+01:00
+Scraper finished at 2026-11-04 20:10:17.949071+01:00
+Scraper finished at 2026-11-04 20:20:20.052292+01:00
+Scraper finished at 2026-11-04 20:30:13.258351+01:00
+Scraper finished at 2026-11-04 20:40:09.295967+01:00
+Traceback (most recent call last):
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connection.py", line 239, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/socket.py", line 989, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connectionpool.py", line 494, in _make_request
+    raise new_e
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connectionpool.py", line 470, in _make_request
+    self._validate_conn(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connectionpool.py", line 1125, in _validate_conn
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connection.py", line 827, in connect
+    self.sock = sock = self._new_conn()
+                       ~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connection.py", line 246, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: HTTPSConnection(host='news.ycombinator.com', port=443): Failed to resolve 'news.ycombinator.com' ([Errno -3] Temporary failure in name resolution)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/urllib3/util/retry.py", line 555, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='news.ycombinator.com', port=443): Max retries exceeded with url: /newest (Caused by NameResolutionError("HTTPSConnection(host='news.ycombinator.com', port=443): Failed to resolve 'news.ycombinator.com' ([Errno -3] Temporary failure in name resolution)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 31, in <module>
+    page = requests.get(url, timeout=20)
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/api.py", line 87, in get
+    return request("get", url, params=params, **kwargs)
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/adapters.py", line 729, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='news.ycombinator.com', port=443): Max retries exceeded with url: /newest (Caused by NameResolutionError("HTTPSConnection(host='news.ycombinator.com', port=443): Failed to resolve 'news.ycombinator.com' ([Errno -3] Temporary failure in name resolution)"))
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=5
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=5
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=5
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=5
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=5
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=5
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=5
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=5
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=5
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=5
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=5
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=5
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=5
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Scraper finished at 2026-11-06 14:40:14.429972+01:00
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=5
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=5
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
+Traceback (most recent call last):
+  File "/home/dave/Documents/YR3SEM1/DataScience-Tasks/ycombinator-scraper/ycomb_scraper.py", line 32, in <module>
+    page.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dave/miniconda3/envs/cps3235/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://news.ycombinator.com/?p=4
